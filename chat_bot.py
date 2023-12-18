@@ -7,6 +7,8 @@ from sklearn.metrics.pairwise import cosine_distances
 
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
+from stress_calculator import calculate_stress
+
 analyzer = SentimentIntensityAnalyzer()
 df = pd.read_csv('data/chat.txt', names=('Query', 'Response'), sep=('\t'))
 Text = df['Query']
@@ -43,6 +45,12 @@ def chatbot(query):
 
 
 def chat_bot(predicted_label):
+    # Initialize cumulative negative sentiment score
+    cumulative_neg_score = 0.0
+
+    # Number of interactions to consider before calculating stress
+    interactions_threshold = 5
+
     # Load data from JSON file
     with open('mental.json', 'r') as file:
         data = json.load(file)
@@ -60,11 +68,21 @@ def chat_bot(predicted_label):
     # Simple conversation loop
     print(f"Aurora: Hi! I'm Aurora. You seems like {predicted_label}. Tell me why is that!!!")
 
-    while True:
-        user_input = input("You: ")
+    for chat_number in range(1, 21):
+        user_input = input("You : ")
         user_input_lower = user_input.lower()
         response, pos_score, neg_score, neu_score = chatbot(user_input_lower)
+
+        # Update cumulative negative sentiment score
+        cumulative_neg_score += neg_score
+
         print(f"Sentiment Scores - Positive: {pos_score}, Negative: {neg_score}, Neutral: {neu_score}")
+
+        # Check if it's time to calculate stress
+        if chat_number % interactions_threshold == 0:
+            # Calculate stress level every `interactions_threshold` chats
+            stress_level = calculate_stress(cumulative_neg_score)
+            print(f"Stress Level (after {chat_number} chats): {stress_level}")
 
         # Check if the user input is in the list of goodbye patterns
         if user_input_lower in goodbye_patterns:
@@ -79,3 +97,5 @@ def chat_bot(predicted_label):
             # Use the user input in the chatbot function
             response, pos_score, neg_score, neu_score = chatbot(user_input_lower)
             print(f"Aurora: {response}")
+
+
