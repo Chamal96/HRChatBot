@@ -9,3 +9,4 @@ predicted_label = predict_emotion(captured_image)
 # print(predicted_label)
 
 bot = chat_bot(predicted_label)
+

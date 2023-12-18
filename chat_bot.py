@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_distances
 
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
-from stress_calculator import calculate_stress
+from stress_calculator import calculate_stress, recommend_activity
 
 analyzer = SentimentIntensityAnalyzer()
 df = pd.read_csv('data/chat.txt', names=('Query', 'Response'), sep=('\t'))
@@ -83,6 +83,9 @@ def chat_bot(predicted_label):
             # Calculate stress level every `interactions_threshold` chats
             stress_level = calculate_stress(cumulative_neg_score)
             print(f"Stress Level (after {chat_number} chats): {stress_level}")
+            # Provide recommendation after calculating stress level
+            recommendation = recommend_activity(stress_level)
+            print(f"Aurora: Dear what if you {recommendation}")
 
         # Check if the user input is in the list of goodbye patterns
         if user_input_lower in goodbye_patterns:
