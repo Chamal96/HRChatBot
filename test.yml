@@ -1,0 +1,67 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Parameters:
+  BucketName:
+    Type: String
+    Description: "Name of the S3 bucket to store data and metadata."
+
+Resources:
+  TransferServer:
+    Type: AWS::Transfer::Server
+    Properties:
+      IdentityProviderType: SERVICE_MANAGED
+
+  S3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Ref BucketName
+
+  TransferUser:
+    Type: AWS::Transfer::User
+    Properties:
+      ServerId: !Ref TransferServer
+      UserName: "transfer-user"
+      HomeDirectory: "/"
+      Role: "arn:aws:iam::aws:policy/AmazonS3FullAccess"
+
+  GlueCrawlerRole:
+    Type: "AWS::IAM::Role"
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: "Allow"
+            Principal:
+              Service: "glue.amazonaws.com"
+            Action: "sts:AssumeRole"
+      Policies:
+        - PolicyName: "GlueCrawlerPolicy"
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: "Allow"
+                Action:
+                  - "s3:ListBucket"
+                  - "s3:GetObject"
+                Resource:
+                  - !Sub "arn:aws:s3:::${BucketName}"
+                  - !Sub "arn:aws:s3:::${BucketName}/*"
+
+  GlueCrawler:
+    Type: "AWS::Glue::Crawler"
+    Properties:
+      Name: "s3-data-crawler"
+      Role: !GetAtt GlueCrawlerRole.Arn
+      DatabaseName: "s3_data_db"
+      Targets:
+        S3Targets:
+          - Path: !Sub "s3://${BucketName}/"
+
+Outputs:
+  TransferServerId:
+    Value: !Ref TransferServer
+
+  S3BucketName:
+    Value: !Ref BucketName
+
+  GlueCrawlerName:
+    Value: !Ref GlueCrawler
