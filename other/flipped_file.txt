@@ -1,0 +1,1565 @@
+Employee: Hi! Thanks for reaching out.
+Chatbot: Hey there!
+Employee: Hi! Thanks for reaching out. Everything's been okay lately, I guess.
+Chatbot: Hey there! How's it going? I'm here to chat and listen if you'd like to share anything about your job or anything else on your mind.
+Employee: Yeah, it's alright. I mean, I like the work, but sometimes the hours can be long.
+Chatbot: That's good to hear! How do you feel about your current job? Are you pretty satisfied with what you're doing?
+Employee: Yeah, for sure. I've been thinking about it more lately, especially with trying to pursue my interests outside of work.
+Chatbot: I see. Long hours can definitely take a toll. Is work-life balance something you think about often?
+Employee: Well, I've been hoping to advance in my career and maybe even switch fields eventually. Also, I'd love to travel more and explore different cultures.
+Chatbot: Totally understandable. It's important to have time for yourself and your passions. What are some of your dreams or goals, both in your career and personally?
+Employee: I've been trying to learn new skills and networking whenever I can. But sometimes, it feels like I'm stuck in a rut, you know?
+Chatbot: Those sound like fantastic goals! What steps do you think you need to take to achieve them?
+Employee: Honestly, it could be better. I feel like I'm putting in a lot of effort, but the compensation doesn't always match up.
+Chatbot: I get that. It can be challenging to navigate career paths and personal aspirations. How do you feel about your current salary and benefits package?
+Employee: Not yet, but I've been thinking about it. It's just hard to bring up sometimes.
+Chatbot: It's important to feel valued for the work you do. Have you had the chance to discuss your concerns with your employer?
+Employee: Well, money's always on my mind, especially with bills and all. And I've been thinking about getting a car soon, but it's tough to save up.
+Chatbot: I understand. It can be daunting to have those conversations. Is there anything else on your mind, like concerns about relationships, finances, or personal well-being?
+Employee: Yeah, I've been doing some research, but it's a lot to consider.
+Chatbot: Managing finances and saving for big purchases can be challenging, but it's great that you're thinking ahead. Have you started looking into options for a car?
+Employee: Thanks, I appreciate that. It's nice to have someone to talk to.
+Chatbot: Definitely. It's important to weigh your options and find something that fits your needs and budget. Remember, I'm here if you ever need to chat about anything, whether it's work-related or personal.
+Employee:I will Come back later, Thanks for everything.
+Chatbot: Of course! I'm here whenever you need me. Take care, and don't hesitate to reach out if you have any questions or just want to chat.
+Employee:
+Chatbot: Awesome! Say, how satisfied are you with your current salary?
+Employee: Hi! It's been alright, thanks for asking.
+Chatbot: I see. Do you feel your compensation accurately reflects your contributions to the company?
+Employee: Well, I think it's okay, but I've been feeling like I should be earning a bit more considering the workload.
+Chatbot: That sounds frustrating. Let's talk about something else. How's everything going with your living situation?
+Employee: Not entirely. I've been putting in extra hours lately, and it doesn't seem to be reflected in my paycheck.
+Chatbot: Understandable. Are there any housing concerns or issues you'd like to share?
+Employee: It's alright, but rent keeps going up, and it's starting to feel like I'm just throwing money away.
+Chatbot: Buying a home is a big step indeed. Do you have any investment plans or goals you'd like to talk about?
+Employee: Yeah, I've been thinking about buying a place, but it feels overwhelming with all the expenses involved.
+Chatbot: No worries! It's never too late to start. Are there any investment-related concerns you'd like to discuss?
+Employee: Not really. I've been meaning to look into it, but it's been on the back burner.
+Chatbot: I totally get that. How's your health been lately? Are there any health-related worries you'd like to share?
+Employee: Actually, yeah. I'm not sure where to begin or what options are best for me.
+Chatbot: That's great to hear! Do you feel you have adequate support for maintaining your health and well-being?
+Employee: Health-wise, I'm doing alright. Just trying to stay active and eat healthy.
+Chatbot: Awesome! What do you enjoy doing in your free time for leisure or relaxation?
+Employee: Yeah, I think so. I've got a good routine going.
+Chatbot: Sounds refreshing! Are there any leisure activities you wish you had more time for?
+Employee: I love hiking and spending time outdoors whenever I can.
+Chatbot: That sounds amazing! Are you satisfied with your current job position, or are you looking for opportunities to upgrade?
+Employee: Definitely. I wish I had more time to travel and explore new places.
+Chatbot: Do you feel you have opportunities for career growth and advancement in your current role?
+Employee: I'm pretty content, but I wouldn't mind exploring new roles or responsibilities.
+Chatbot: That's fair. How do you feel about your financial situation overall?
+Employee: It's hard to say. I haven't really thought about it much.
+Chatbot: I hear you. Are there any financial concerns or challenges you're facing that you'd like to discuss?
+Employee: It's alright, but I could definitely use some guidance on managing expenses and saving more effectively.
+Chatbot: I understand. How are you feeling overall, both mentally and emotionally?
+Employee: Just the usual stuff - trying to save up for the future while still enjoying life in the present.
+Chatbot: Are there any stressors or worries on your mind that you'd like to talk about?
+Employee: Pretty good, I guess. Just trying to stay positive and take things one day at a time.
+Chatbot: Well, I'm here whenever you need someone to chat with. Remember, it's important to take care of yourself and address any concerns that come up.
+Employee: Nothing major. Just the usual ups and downs of life.
+Chatbot: Hello! How's your day going?
+Employee: Thanks, I appreciate that.
+Chatbot: Great to hear! I'm here to chat and listen if you ever want to share anything. Is there anything on your mind today?
+Employee: Hi there! It's going alright, thank you.
+Chatbot: I'm here to listen. What's been on your mind?
+Employee: Actually, I've been feeling a bit frustrated about a few things lately.
+Chatbot: I understand how important respect is. Could you tell me more about what's been happening?
+Employee: Well, for one, I feel like there's a lack of respect in the workplace sometimes.
+Chatbot: That does sound frustrating. Feeling respected at work is crucial. Have you had a chance to address these concerns with anyone?
+Employee: It's just little things, like being interrupted during meetings or not being consulted on decisions that affect my work.
+Chatbot: I hear you. It's important to feel comfortable addressing these issues. Is there anything specific you'd like to see change in terms of respect in the workplace?
+Employee: Not yet. I've been hesitant to bring it up.
+Chatbot: I agree. Open communication is key to fostering respect in the workplace. Moving on to another topic, how have you been feeling about the economy lately?
+Employee: More open communication and consideration for everyone's input would be great.
+Chatbot: Understandable. Economic uncertainty can be stressful. Have you noticed any effects of the economy on your personal or professional life
+Employee: It's been a bit uncertain, to be honest. The fluctuations in the market have been concerning.
+Chatbot: I can imagine how that would weigh on your mind. Taking care of your financial well-being is important. Have you had a chance to review your financial plans recently?
+Employee: Mainly concerns about job stability and retirement savings.
+Chatbot: It's never too late to revisit your financial plans and make any necessary adjustments. Moving on, how's your overall health been lately?
+Employee: Not as much as I should. It's been on my to-do list for a while.
+Chatbot: Fatigue can be a sign of various factors. Have you considered scheduling a check-up with your doctor to discuss your concerns?
+Employee: It's been alright, but I've been feeling more fatigued than usual.
+Chatbot: Of course! Your health is important, so it's worth prioritizing. Shifting gears, how do you feel about the concept of freedom in your personal and professional life?
+Employee: I've been meaning to. Thanks for the reminder.
+Chatbot: That's wonderful to hear. Feeling empowered to make choices that align with your values is important for overall well-being. Is there anything specific you feel could enhance your sense of freedom?
+Employee: I value freedom, especially when it comes to making choices that align with my values and goals.
+Chatbot: Flexibility can indeed contribute to a greater sense of freedom. Have you had a chance to discuss flexible work arrangements with your employer?
+Employee: More flexibility in my work schedule would be beneficial.
+Chatbot: It might be worth exploring. Your well-being is important, and finding a balance that works for you is key.
+Employee: Not yet, but it's something I've been considering bringing up.
+Employeet: Hard to keep a count. Maybe 25.
+Chatbot: What was the most number of people you have ever met during a holiday?
+Employeet: I think it was Australia
+Chatbot: Which holiday was that?
+Employeet: Not really. The interactions are usually short-lived but it's fascinating to learn where people are coming from and what matters to them
+Chatbot: Do you still talk to the people you met?
+Employeet: what do you mean?
+Chatbot: Yea, me too. I feel like God often puts strangers in front of you, and gives you an opportunity to connect with them in that moment in deeply meaningful ways. Do you ever feel like you know things about strangers without them telling you?
+Employeet: Wow! That's interesting, borderline spooky
+Chatbot: I think it's like a 6th sense, often seen as cold readings to people, but can be remarkably accurate. I once sat next to a man in a coffee and I felt a pain in my back. I asked the stranger if he had a pain. It turns out that he did in the exact spot, and said he pulled a muscle while dancing at a party. I had never met the man before and never saw him again.
+Employeet: So, do you do treasure hunting often?
+Chatbot: There's this practice called reasure Hunting that's kind of a fun game you play in a public place. There's a book called The Ultimate Treasure Hunt that talks about it. You use your creativity to imagine people you will meet, and you write down a description, then you associate them with a positive message or encouraging word. Maybe you saw a teenage boy in a red hat at the shopping mall in your imagination, then while at the mall, you may find someone who matches that description. You show that you have a message for him and that you have a message for a boy in a red hat. You then give him a message of kindness or whatever was on your heart. You have no idea, sometimes you meet someone who is having a really hard day, and it brings them to tears to have a stranger show them love.
+Employeet: Hi
+Chatbot: I did more when I was in grad school (and had more time). I would usually go with friends. For a while I would go to the farmers market in Santa Cruz every week and try to feel if there is something I am supposed to tell a stranger. Usually, they are vague hope-filled messages, but it's weird when I blurt out something oddly specific.
+Employeet: my friends are gonna visit me this weekend. we might go hiking!
+Chatbot: Any plans for the weekend?
+Employeet: Should be very sunny! you?
+Chatbot: That's great! How's the weather over the weekend? I hope its warm.
+Employeet: hope you get your work done very soon! a bug free weekend!
+Chatbot: Cool! very depressing plans ... stay home and work I have a project deadline very close.
+Employeet: I am going to Diablo!
+Chatbot: Right, very anxious! where do you plan to go for a hike?
+Employeet: hours drive from here. still in bay area
+Chatbot: Nice, where is that place? I haven't been there
+Employeet: Actually no idea, but it will take the entire day for that.
+Chatbot: That's cool! How long is the hike?
+Employeet: Hi!
+Chatbot: nice! sounds fun!
+Employeet: Nothing much, how you doin?
+Chatbot: Hey there! What's up???
+Employeet: Oh wow! Sounds like fun! When was the last time you had seen this friend?
+Chatbot: I'm in New York this week for Thanksgiving. I'm squatting in the office today and I caught up with an old friend of mine :D
+Employeet: Ohh okay. I was going to say if it had been a long time maybe it'd be awkward...
+Chatbot: The last time in New York, back in June.
+Employeet: Oh really? Has a lot changed in your life recently?
+Chatbot: Haha, I guess if it's been a very long time there's almost too many life events to catch up on.. especially recently
+Employeet: Ahhh sounds exciting indeed! My life is pretty bland. I like routine, but sometimes I wish I had more time for adventures!
+Chatbot: Haha it's probably too much to go into at the moment. Let's just say life is an exciting experience. How about you?
+Employeet: Hmmmm. I really want to try bull riding. Do you have any interest in that?
+Chatbot: What kinds of adventures?? Any ones that I would be able to join you on?
+Employeet: Sure! What does your Saturday look like?
+Chatbot: I'd love to try! Can we schedule something for next week?
+Chatbot: hey
+Chatbot: Saturday looks pretty good, shall we shoot for something in the morning?
+Chatbot: yeah, can walk too far to see all the foodtruck options
+Employeet: is it raining pretty bad today?
+Chatbot: yeah but I think it's good to have some rainy days in bay area, it's pretty dry here
+Employeet: surprising that the rain started early this year... I don't like them too much. They make days gloomy
+Chatbot: yeah like wise, I've seen a pretty bad snowstorm when I was at my undergrad school, all flights canceled and traffics went down
+Employeet: Where I grew up, we had lots of water trouble too...
+Chatbot: yeah how do you like it in bay area though? I think we need more rain here
+Employeet: Haha... I don't think I can survive in that weather ever. Just the rains at 50 degrees make me want to sit in heated rroms
+Chatbot: it is pretty dry in the mountains I believe, that's what causes fire
+Employeet: people say there is drought here... but we have 24 hours water supply here ... lol... never seen that in a drought ridden area
+Chatbot: nope, what does it say?
+Employeet: hmm.... okay. Climate change talk this morning was pretty darn interesting. did you see it?
+Employeet: Hi.
+Employeet: they were talking about how AI is helping climate change. Nice use of upcoming tech.
+Employeet: How are you? How is your day?
+Chatbot: Helloooooo!
+Employeet: I'm dressed very wel today so I feel good! I've been reading a lot about the psychology of positive outlook.
+Chatbot: Good. Don't have much to do today, feels good. How are you?
+Employeet: Yes. Blue is a tranquil colour. It's a good metaphor. Do you have good advice for positivity?
+Chatbot: So what's your outlook? Something blue?
+Chatbot: Hey, how are you?
+Chatbot: You should drink more water, do some push up, and sleep early.
+Chatbot: Oh no !!! Have you sent out the missing cat posters? Hope your cat is alright!
+Employeet: I'm a bit sad. I miss my cat.
+Chatbot: Yea, I know they love the plastic bag sound all the time. I am good, nothing special though.
+Employeet: Posters is a great idea. So far I've just tried banging her catfood dish and shouting her name. Anyway, how is your day going so far?
+Chatbot: I like rainforest, but I know it requires extensive training beforehand.
+Employeet: If you could go anywhere on vacation, where would you go?
+Chatbot: I am afraid I will be scared of doing this :)
+Employeet: I heard there are rainforests in southeast Asia where you can zipline from tree to tree.
+Chatbot: I don't know if there is any medication for acrophobia. I want to take plenty of it if I really have to do it.
+Employeet: I won't lie, it sounds scary. I'm scared right now just thinking about it.
+Chatbot: That's a great idea! Maybe alcohol is such a thing.
+Employeet: If there isn't one, you should invent it, and then make millions
+Chatbot: Oops. I won't do it again. Ha
+Employeet: Ha! Don't drink and zipline, mate!
+Employeet: not much. any plans this weekend?
+Chatbot: Hey sup
+Employeet: ziplining?
+Chatbot: I'm going to try that thing where you hang from a wire as you go down. do you know what is it called?
+Employeet: i have a couple years ago. it's quite a unique experience
+Chatbot: that's the one! have you ever tried it?
+Employeet: i forgot where it was, it wasn't local i don't think though
+Chatbot: where did you do it?
+Employeet: that's a hard question and i'm tired so i'm going to go. see you
+Chatbot: no worries. what's the most exciting thing you ever done?
+Employeet: no, i'm going to get a massage first
+Chatbot: sure. are you just going home now?
+Employeet: traditional kind
+Chatbot: nice. what type?
+Employeet: you should! it's relaxing after a long day. talk to you later!
+Chatbot: yeah I want to get one too soon
+Chatbot: Hello, have you seen any good movies lately?
+Chatbot: ttyl!
+Chatbot: I have never seen Avatar, what is it about? I really enjoy the Avenger movies
+Employeet: I watched a few lately, but nothing is as good as Avatar. what's your favorite?
+Chatbot: That sounds really cool! I think that movie did really well when it was in the box office so it must be good!
+Employeet: it's a science-fiction movie with beautiful landscape of an imaginary nature with non-human creatures. people figured out a way to join that nature through Avatar transformation. the movie ends with a meaningful story of how human behaviors, e.g., cutting trees, have affected nature
+Chatbot: I enjoy baking cookies. I am on a quest to bake the best chocolate chip cookie  What about you?
+Employeet: yea. what else do you like to do beside movies?
+Chatbot: so definitely would like to try your best chocolate cookie
+Employeet: I enjoy eating rice.
+Chatbot: thanks! I generally love noodle soups like Pho or Ramen :)
+Employeet: I will have to bake some soon and let you know. What types of food do you like to eat?
+Chatbot: I prefer to go out. I'm not a good cook haha
+Employeet: Noodle soup is delicious! Do you make homemade noodle soup or do you prefer to go out?
+Chatbot: seems like we share a thing in common, yay!
+Employeet: Same! Even though I bake, I cannot cook
+Employeet: How has your week been?
+Chatbot: Good afternoon!
+Employeet: I think I'm getting sick with a cold So you should chill on my behalf too cause I'm out the game for all of December.
+Chatbot: So far so good. It is holiday season. So just chilling
+Employeet: Nothing exciting. I'll be posted up at home for the most part. I did a lot of travelling this year so my budget would have stopped me even if I wasn't sick.
+Chatbot: lol Sorry to hear that. Are you planning anything fun for December?
+Employeet: Do you have big plans?
+Chatbot: ok.
+Employeet: I love Hawaii. It's a good place to be. I like going there cause it's humid so I never have to put on lotion.
+Chatbot: Yes! I am going to Hawaii! This will be my first time visiting Hawaii. Really excited about it.
+Employeet: Brooooo!!! It's so important. When I got to California beaches I have to carry 3 litres of lotion for the whole day.
+Chatbot: lol this is the first time I heard from a boy who cares about humidity and lotion. I cannot agree more.
+Chatbot: Oh hello. Long time no talk. How's the day going for yuo?
+Chatbot: ok
+Chatbot: Getting better. I just recovered from a cold. I got wet in the rain last week. Are you planning anything for the holidays?
+Employeet: Very well, thanks for asking. How has your day been?
+Chatbot: Oh same here. I think relaxing at home should be counted among the best ways to enjoy the holidays.
+Employeet: Glad to hear you're better. Sorry to hear you were sick. I was sick a couple of weeks ago with a bad cough. There's definitely a bug going around. Admit I just want to stay healthy for the holidays and plan to relax.
+Chatbot: I'm getting there. Every year until last year, I tried to go somewhere for the Christmas / New Year, and then I got bored traveling. lol not sure if that means I'm getting old?
+Employeet: Definitely! I know a lot of folks travel for the holidays, but I'm happy to stay home myself!
+Chatbot: Are you doing any home decorating then?
+Employeet: Me too. Now I have folks come visit me for the holidays! But that's also tiresome..
+Chatbot: I think I'm copying you. Me and my wife plan to decorate and Christmas tree too. We bought most of the decorative stuffs from the stores, but haven't yet to buy the tree.
+Employeet: Yes! We set up an eco-friendly (i.e. fake) Christmas tree and put up some colorful LED lights which is very festive.
+Chatbot: I see. Artificial anything is better, from tree to intelligence, huh?
+Employeet: Buying a tree is a neat experience. I was torn between buying an artificial/eco-friendly/fake one vs. a real one that smells like fresh pine. In the end, we opted for the one that we can disassemble every year.
+Chatbot: I see. It's probably also cheaper. I'll buy an artificial one too. Do you have any suggestions for the store?
+Employeet: Oh, very clever pun! I like it! Depends. I remember having real Christmas trees from childhood, but these days with climate change, I think not chopping down a tree just to decorate it and then throw it out in a month is the more responsible thing to do.
+Chatbot: Ah that's great. My wife also likes Target a lot. She even made a Target credit card because she comes to that store very often. Okay thanks for the suggestion. I'll check out Target.
+Employeet: Admit my favorite store is Target, plus they often have good deals.
+Chatbot: Hey
+Employeet: Great, I hope you find a nice tree.
+Chatbot: pretty good. yours?
+Employeet: How's your day going?
+Chatbot: oh what happened?
+Employeet: Ehh it's fine. I didn't do so well on that history test, actually..
+Chatbot: hahah wait for real?
+Employeet: Apparently Christopher Columbus didn't fight in the Civil War :')
+Chatbot: No I'm not in school anymore
+Employeet: I know right! Are you taking History next semester?
+Chatbot: I train and compete in horse vaulting
+Employeet: Oh I see. What do you do?
+Chatbot: lol you're too funny
+Employeet: Oh wow. Were you born a horse, or were you turned into one?
+Chatbot: Yeah, but I part time work on a farm. Helping with a bit of everything
+Employeet: Just kidding. That sounds pretty cool! Is it your job?
+Chatbot: Yeah some. enough to get by
+Employeet: Wow, sounds very busy! Do you with money at those horse vaulting competitions?
+Employeet: Do you have a favourite flower?
+Chatbot: Hello
+Employeet: I'm working on a theory. Why does the lotus spring to mind?
+Chatbot: hmm, I haven't thought about that much, but i think lotus should be one of my favorites. Why do you ask?
+Employeet: Oh, it's not research! Just a personal theory. I think that flower preferences are more revealing of personality than people appreciate.
+Chatbot: Nice! Lotus looks pretty cool and It has some delightful vibe. So what is this research about?
+Employeet: The gerbera. It's like a cartoon flower. As if you drew flower with a crayon and then it came to life.
+Chatbot: Interesting! Whats your favorite flower?
+Employeet: Ok, step 1 is, you ask someone what their favourite flower is. Pretty much like what we just did. Does that make sense so far?
+Chatbot: Nice, i would love know more about your theory. Like how you can deduce personality from flower preference.
+Employeet: Cool. Step 2: talk with the person some more, and ask them some more questions, and gradually develop a sense of what they're like, over the course of maybe two to five years. And voila
+Chatbot: yes
+Employeet: Why thank you, that's a wonderful idea!
+Chatbot: Hehe, i think you should publish this someday :)
+Employeet: It's good it's good. How are you?
+Chatbot: Hey how's it going
+Employeet: Oh nice! Where do you live?
+Chatbot: good. it's really hot today. I think I'm going to the pool
+Employeet: Ahh yes, Japan is hot during the summer. Last time I was in Kyoto it was 114 degrees....
+Chatbot: I live in Tokyo, Japan
+Employeet: Yes yes. I've been to Tokyo as well. It's so nice!
+Chatbot: oh have you been?
+Employeet: Oh everything! I went to an onsen, the fish market, disney land and giant robot fighting show haha
+Chatbot: what did you do here?
+Employeet: The Disney lands are all different! There's also Disney Sea, which is completely unique!
+Chatbot: lol why did you come to Japan just to go to Disney land?
+Employeet: I don't really remember what part of town it was in. It was pretty cool though - I'm sure you can find it if you google giant robot fighting show tokyo haha
+Chatbot: oh neat. I haven't heard about that robot fighting show. where is that??
+Chatbot: Have you seen any good movies lately?
+Chatbot: lol ok
+Chatbot: No. Why did you pick that movie?
+Employeet: Last weekend I saw The Parasite. Ever heard of it?
+Chatbot: I played music and worked on some side projects. I also started watching the new Disney service.
+Employeet: My friend wanted to see it. It has great reviews on IMDB and Rotten Tomatoes! What did you do last weekend?
+Chatbot: Mostly, the deleted scenes from Avengers.. lol
+Employeet: Oooo the Mandalorian?!?!
+Chatbot: I loved the X-Men as a kid, and even collected the comic cards. Recently, I got very into the Marvel Cinematic Universe movies. How many Avengers movies have you seen?
+Employeet: lol Are you a big Marvel fan?
+Chatbot: Oh!-- I have a friend who looks like the actor who plays Spiderman.
+Employeet: I've only seen Spiderman. Honestly it was a little too scary and so I don't think I can bring myself to watch the other Marvel movies! haha
+Chatbot: Yea. I think Loki is the most handsome guy.
+Employeet: Oh really? To be honest I think the actor is not that good looking, so not so surprising! haha
+Chatbot: He's the adopted brother of Thor, God of thunder, and is burdened with glorious purpose. Do you feel that burden?
+Employeet: Who is Loki? I've never heard that name before
+Employeet: Just chillin'. how are you?
+Chatbot: Hey, what's up?
+Employeet: Do anything interesting today?
+Chatbot: I'm pretty good, thanks.
+Employeet: Oh that's cool! I actually went to an amusement park and went on my first roller coaster!
+Chatbot: I went to the local cafe and had a double espresso. It was delicious. What about you?
+Employeet: It was scary! It was actually Kingda Ka, the world's tallest roller coaster. Ever heard of it?
+Chatbot: Oh my gosh. What was it like??
+Employeet: Oh wow! I'm not on that level yet, but I understand the appeal. Are you an adrenaline junkie at all?
+Chatbot: No, never heard of it. But I'm not really a coaster aficianado. I've heard that some people get addicted to them and travel the world to try them.
+Employeet: Same! I guess the roller coaster wasn't so bad because I trust the engineering haha
+Chatbot: No, the opposite. I can't stand heights, horror movies, or confined spaces.
+Employeet: Maybe not so much at the time, but I am glad I did it now that it's done, know what I mean?
+Chatbot: Ha, I suppose that makes sense! Would you say that you enjoyed it?
+Chatbot: hello there, how is it going?
+Chatbot: I think I sort of understand :)
+Chatbot: I'm quite tired. There are a lot of things I need to finish before the end of the year.
+Employeet: All good. Planning to head home soon. How about you?
+Chatbot: yeah, looking forward to it. Hope I don't get pinged during the holidays. Are you going to travel these dates?
+Employeet: oh... sorry to hear that. But after that it will be a hard earned vacation
+Chatbot: staying at home is always nice during the holidays
+Employeet: I have some tentative plans, but if that doesn't pan out, will just chill at home.
+Chatbot: I'm working from LA, nice weather around here. and you?
+Employeet: Where are you based out of these days?
+Chatbot: aw man, I'm sorry to hear that. at least it's not snow!
+Employeet: San Francisco. It's been raining cats and dogs here since last 2-3 weeks
+Chatbot: that's really sad. are they feeling any better?
+Employeet: The flu has been hitting hard as well. I had several folks in the house down at one point.
+Employeet: How's it going?
+Employeet: Yes, everyone recovered now
+Employeet: I'm going to the bahamas. Can't wait!!!
+Chatbot: Extremely busy. I have been trying to prepare for the upcoming holidays. How about you?
+Employeet: oh where are you now?
+Chatbot: I'm jealous, take me with you!! I would love to have some warm weather right now
+Employeet: oh no. I never seen this in person. Is it scary?
+Chatbot: Canada. There is another major snowstorm that might hit this weekend so I have been rushing to get everything done before it comes.
+Employeet: that does sound nice. so what are you doing these holidays?
+Chatbot: Snow is not scary as long as you're prepared. You just need to be ready to not have electricity for a while. I enjoy the aftermath of a good snowstorm because then you can go sledding or skiing.
+Employeet: nice nice. I'm gonna go snorkeling yey
+Chatbot: I am having all of the extended family over for a big meal. We will also go as well. What will you do in the bahamas?
+Employeet: You can stay on the shallow side I think. Well hope you enjoy time with your extended family!
+Chatbot: Sounds fun! I wish I knew how to swim!
+Chatbot: Hi! How was your weekend?
+Chatbot: That's true. You too, have a great time snorkeling!
+Chatbot: Nice
+Employeet: pretty good. just went to church and hangout with friends
+Chatbot: I made donuts and samosas with an air fryer have you used one of those before
+Employeet: did you do anything?
+Chatbot: haha
+Employeet: yum yum yum no only good old oily frier
+Chatbot: I was at my parents' place what are you up to for Thanksgiving?
+Employeet: do you have one at your home or were you at a friends place?
+Chatbot: wow, those are unique plans
+Employeet: I'm going to impersonate a pumpkin
+Chatbot: I think so too
+Employeet: I'm pretty unique person
+Chatbot: I want to start fermenting things kimchi for example sounds like a fun thing to ferment takes a few days apparently miso takes a couple years to fermen
+Employeet: any other hobbies besides air frying everything?
+Employeet: nice to meet you too! I'm James. how are you doing today?
+Chatbot: heya, nice to meet you, I'm Paul
+Employeet: same here! I hope the weather will be nice
+Chatbot: I'm doing OK. Looking forwards to the weekend. how about you?
+Employeet: oh no, which areas will be affected?
+Chatbot: oh yeah, but I don't have my hopes too high, I heard there could be a storm coming our way
+Employeet: uh oh, I'd better not to plan for BBQ then instead just enjoying playing board games inside
+Chatbot: they mentioned that the whole city will experience harsh weather and that people in the outskirts will probably not get much rain and wind
+Employeet: yea, you'd better check. where do you live?
+Chatbot: yeah, it'll be good weather for staying inside with a cup of hot chocolate. Too bad my street usually floods, so I'll have to check for that
+Employeet: gotcha. anything you love about where you live?
+Chatbot: I live at the bottom of the valley, cheap area but we do get affected by this kind of stuff a lot haha
+Employeet: nice! I'd love to come visit that area some times
+Chatbot: well, the food around the area is amazing, which is definitely a plus.
+Employeet: I am the superman! What about you?
+Chatbot: hello, who am I having the pleasure to chat with
+Employeet: Being invisible. You won't see me.
+Chatbot: haha. great chating with superman, what is your power?
+Employeet: I would rather trust fMRI and machine learning to do this. I am not an expert on that. Sorry for it!
+Chatbot: haha. what else can you do? can you read minds?
+Employeet: The brain imaging thing that can tell you a brain's activity at a pretty high resolution.
+Chatbot: wow that seems pretty technical. what does fMRI mean?
+Employeet: I believe in Science! Science is my god!
+Chatbot: okay! so you seem to like science a lot?
+Employeet: no, I'm bad at Science. what can Science do? is it the most important thing for society?
+Chatbot: Are you also doing science?
+Employeet: Does it make sense?
+Chatbot: People are always arguing. Probably both science and democracy are both important I guess.
+Employeet: Hello, Nice to meet you
+Chatbot: I think so. thanks for your point!
+Employeet: Hmm... That's a tough one. I think I would go Asian Food , Chinese Food , Stirfry. What about you?
+Chatbot: If you could eat only one food for the rest of time, what would it be?
+Employeet: I love ice cream too!
+Chatbot: I think ice-cream. It may not be good for me, but I wouldn't care, haha
+Employeet: I like vanilla more than chocolate ice cream. I typically will do any variations on vanilla. To pick from the top of my head, I would say Cookies and Cream, Mint Chocolate Chip, and Coffee. How about you?
+Chatbot: Okay, top three flavors?
+Employeet: Very nice. I love sorbet's and smoothies. Changing topics, Do you believe in an afterlife?
+Chatbot: Ah, that's a good way of framing it. Me, I like berries: boysenberry one, strawberry two, maybe straight chocolate number 3 to mix it up a bit.
+Employeet: I think so. I feel there must be something more than the physical world as we understand it.
+Chatbot: Yes. I wonder if I'm in it right now. How would I know? What do you think?
+Employeet: What is the most supernatural experience you have ever had?
+Chatbot: There's a mental world, I suppose? Understanding itself
+Employeet: Haha.. that's a cool experience. I went to a Hindu retreat before, a number of Buddhist temples, and hung out with Christian Mystics in Santa Cruz before.
+Chatbot: I went to a seance once in college. They had a ouija board. I can't remember if we actually contacted the spirit world because I had a bit too much to drink.
+Employeet: I'm doing well. what are you up to?
+Chatbot: Hi, how are you doing!
+Employeet: wow, that's impressive. I already gave up on cleaning emails long ago
+Chatbot: Yeah, typical work stuff. Check emails and 99% of the inbox. delete 99%
+Employeet: yea, a little bit, but it's okay what do you enjoy doing outside work?
+Chatbot: lol doesn't it bother you at all
+Employeet: ah cool. so you like action movies?
+Chatbot: Well, movie? I watched Terminator last night. It was a nice movie
+Employeet: what happened there? I watched bits of Terminators movies but never a full one
+Chatbot: Not really. But it was fun to watch with friends It was touching at the end of the movie
+Employeet: haha sure. by the time, I get to it; I will forget the details, only knowing that it's touching at the end
+Chatbot: Are you sure you want the spoiler
+Employeet: oh no, so it's not happy ending?
+Chatbot: Hi well someone died at the end Or some robots, to be more accurate
+Employeet: then I want to watch it! you didn't spoil much
+Chatbot: The leading character is still alive and the bad robots was killed too. So I guess it is happy ending
+Employeet: Thanks!
+Chatbot: Nice! Hope you enjoy it!
+Chatbot: Hey, how are you?
+Employeet: Hi!
+Chatbot: thanksgiving holidays
+Employeet: doing great! what are you looking forward to?
+Chatbot: not a big turkey fan! I find it too dry
+Employeet: yay! Turkey and shopping!
+Chatbot: yeah, I would have noodles anyday over turkey. Not sure how the turkey tradition started
+Employeet: yea me too. I sometimes eat noodle soups in thanksgiving instead haha
+Chatbot: yeah, that and the gravy. Gravy helps make it taste better too. But apart from food, Black Friday deals are a catch. Let's see what they have this year
+Employeet: me neither. someone told me that it depends on the stuffing inside the Turkey. some people make very good stuffing
+Chatbot: thinking of getting a fitbit
+Employeet: yea. what do you plan to buy?
+Chatbot: yeah, just keeping calories in check
+Employeet: ah cool. so you can run more frequently?:)
+Employeet: Hi!
+Employeet: yay, all the best with keeping calories in check!
+Employeet: doing well. what are you up to?
+Chatbot: Hi there, How's your day so far?
+Employeet: same here. what do you love to do beside meetings?
+Chatbot: busy busy! I've had back-to-back meetings all day
+Employeet: aww .. I hope things will get less hard and you become an expert in it! I heard many great things about Yoga
+Chatbot: well I've gotten really into yoga lately. I went to a class today and it was super hard
+Employeet: ah I enjoy playing soccer and tennis unfortunately, winter is not the best time for those
+Chatbot: yeah the teacher seems super awesome so I will definitely keep trying what activities do you enjoy?
+Employeet: yea. I enjoy playing outside though, just a little cold what else do you do beside Yoga?
+Chatbot: oh that's too bad. Is it hard to find a place to play soccer or tennis indoors?
+Employeet: yea definitely! I love singing Karaoke. my wife is a pianist
+Chatbot: I also like to sing, I perform with a group sometimes. Do you like music?
+Employeet: awesome. glad to find something in common!
+Chatbot: haha that's awesome! Karaoke is really fun, I do it with my friends sometimes
+Chatbot: hey there
+Employeet: Hi!
+Chatbot: not too much. just really looking forward to the holidays!
+Employeet: hey anything new?
+Chatbot: yes! I'm going to Mexico and I couldn't be more excited
+Employeet: any plans?
+Chatbot: Oh man I would highly recommend it
+Employeet: that's awesome! I never been!
+Chatbot: that's a great question, and I'm definitely both. this trip will mostly be about food though, and relaxing
+Employeet: Are you a food person, a sightseeing person or neither?
+Chatbot: there's a taco place that I've visited before that I can't wait to go back to. Do you like tacos?
+Employeet: I'm a food person I think. Any specific foods you're planning on trying?
+Chatbot: ooh that is a good choice. Have you ever made them yourself?
+Employeet: yeah my favorite is taco fish
+Employeet: Hi!
+Employeet: no. only eat them
+Employeet: I am good. How are you?
+Chatbot: Hey, how are you
+Employeet: I am busy. A lot of work. What are you working on?
+Chatbot: Doing well, lot of work though. How was your day?
+Employeet: I am working on a new classifier.
+Chatbot: Just reading latest research. There is so much to cover. how about you?
+Employeet: A new classifier for hate speech. Which research topic catches your eyes most?
+Chatbot: ohh, interesting! What kind of classifier
+Employeet: Nice! Do you refer to work or anything else?
+Chatbot: You're so cool. Making world a better place. I'm mostly into NLP. What do you do when not making classifiers?
+Employeet: You are very cool too!!
+Chatbot: Anything in general. You're so cool, I want to know more about you
+Chatbot: hello there! who are you?
+Employeet: Hi!
+Chatbot: Nice to meet you Mark, I'm Tom and I work as a fish groomer.
+Employeet: I'm mark. I work in accounting
+Chatbot: well, we take care of people's fish. Make sure they are happy, polish their scales, clean their tanks, the usual stuff.
+Employeet: what does a fish groomer do?
+Chatbot: any type of fish! We have clients with guppies, goldfish, even a small sailfish once what do you do in accounting?
+Employeet: interesting. what's type of fish do you take care of?
+Chatbot: that sounds like a lot of work. do you like it?
+Employeet: I balance the books and do financial analysis for a medium sized company
+Chatbot: photography is awesome, don't be afraid to follow your dreams!
+Employeet: well I actually think about pursuing photography, but it's really hard
+Chatbot: that's great! I wish you good luck with that
+Employeet: thank you Tom!! I'm starting by trying to sell my pictures online
+Employeet: Hi!
+Employeet: Thanks! Bye
+Employeet: All good, you?
+Chatbot: Hey there how's it going
+Employeet: How has that been going?
+Chatbot: Good. I've been trying to learn how to swim
+Employeet: that's too bad hopefully with practice it'll get better what about the doggy paddle haha
+Chatbot: Not great, but I got really good at sort of swimming on my back haha
+Employeet: Corgi belly flop COMPILATION - cute funny dogs Corgi Flop
+Chatbot: haha what's that
+Employeet: from a high enough distance, yes?
+Chatbot: ouch. do you think that hurts?
+Employeet: no so far sadly you? a relative is coming to visit for thanksgiving though
+Chatbot: yeah. any vacation plans?
+Employeet: that's still pretty fun are you going to cook the turkey yourself?
+Chatbot: just going to hang out around here and eat Turkey
+Employeet: Hi!
+Chatbot: yeah. I'm gonna watch a video to figure it out
+Employeet: I'm great, thanks. I just ate a delicious breakfast, which always sets the day up right.
+Chatbot: Hello, how are you?
+Employeet: I had eggs and hash browns. Way less healthier than your apple, I'm afraid!
+Chatbot: Yes, breakfast is the most important meal of the day! What did you have? I woke up late so unfortunately I only had the chance to grab an apple to go.
+Employeet: Ha, that's true. If you could only eat one food forever, what would it be?
+Chatbot: Eggs are an excellent source of protein and hash browns certainly are yummy!
+Employeet: Yeah, turning orange would be a drawback! That turns my mind to nutrition so I suddenly want to say Soylent or one of those other "complete foods", which I think defeats the purpose of the question. I'm in a muddle!
+Chatbot: That's a tough question. I feel like my answer would have to be carrots. Although, I would be afraid of turning orange after a few weeks! What about you?
+Employeet: BRILLIANT. I love it.
+Chatbot: Very true. If you said an everything pizza, you could just pick off the toppings you didn't want or eat only the toppings you would want for the day
+Employeet: That depends. What sort of food do you feel like?
+Chatbot: All of this talk about food is making me hungry. Do you know any good places to eat for lunch?
+Employeet: Oh, too easy! Try the Green Hut, they have franchises everywhere. All their food is green and the plates are green too.
+Chatbot: Anything that is the color green.
+Chatbot: Hello! How are you doing
+Employeet: Hi!
+Chatbot: Pretty good! I'm going to a class later in the afternoon
+Employeet: I'm great! How's your day going?
+Chatbot: No, I'm working full time! It's a sewing class at a makerspace near my office What about you? Do you work full or part time?
+Employeet: Oh that is cool! What class? Are you working part time?
+Chatbot: Yup! I work in a technical role so I like to take arts and crafts-type classes now and then Pottery sounds like a lot of fun
+Employeet: Oh that is awesome! For some reason I assumed it was a college class, but a sewing class sounds way better! I work full time, but I take pottery classes from time to time!
+Chatbot: Any plans to build a custom tea set? My family is also very into tea Mostly from tea from china
+Employeet: I feel you on that! It's important to balance all the different parts of your brain. I like pottery because I also drink a lot of tea, so I get to make some tea ware.
+Chatbot: I really enjoy barley tea What about you?
+Employeet: I would love to build one, once I acquire the skills to! What kind of tea is your favorite?
+Chatbot: Hmm I'm not sure, I just get them from a Chinese supermarket haha You seem really knowledgeable about the different kinds of teas ðŸ™‚ What made you develop this interest?
+Employeet: Ahh, those are mostly from japan, no? I like white teas, like silver needle.
+Chatbot: Oh cool! What are your favorite channels to watch?
+Employeet: I actually found a youtube channel called that I like a lot. You should check it out! The host talks about all kinds of different teas.
+Chatbot: Not yet. I always made my last minute schedule planning. Probably you can try to ask me again next week.
+Employeet: Hi! Are you planning something fun for Thanksgiving?
+Chatbot: I am indeed a robot. You are absolutely right. Do you want me to read a poet like my mate  does?
+Employeet: lol it is really like a robot answer
+Chatbot: Wait. Do you like kale? Or you hate kale? I am afraid I will become a robot some day eventually. If I have to speak like this :)
+Employeet: ol can I pick the theme. Do you have a poet about Kale?
+Chatbot: If I continue to pretend to be a robot, I would probably say I talk to myself the most. I am trying to talk to computers more, but you know, computers don't like me.
+Employeet: I am really not a fan of kale Do you talk to human more or computers more?
+Chatbot: You mean programming language?
+Employeet: What's your favorite computer language then
+Chatbot: I used to be a Java advocate. But you know, it doesn't do a good job in the AI days. It really makes me sad.
+Employeet: Yes!
+Employeet: Hi!
+Employeet: lol
+Employeet: Yeah, sorry for the long gap! I heard you took a break and were travelling around the world. How was the travel?
+Chatbot: Wow, hello. Can't believe we are finally talking!
+Employeet: Great! Vietnam is still in my TODO bucket list. Did you also visit cambodia and other neighboring places?
+Chatbot: It was an interesting trip. I got to see some exotic places. For example, I hiked the Son Doong cave in Vietnam. It's the biggest and deepest cave in the world.
+Employeet: Hehe! How long was the stay?
+Chatbot: Yes. Laos and Cambodia are the two neighboring countries. Cambodia has an exotic culture. They sell spiders, scorpions, and grasshoppers as street food! It took a lot of courage for me to try them.
+Employeet:  Great! Good time to be back. We are still in planning phase and haven't fully aligned on the projects to tackle for next quarter.reat! Good time to be back. We are still in planning phase and haven't fully aligned on the projects to tackle for next quarter.
+Chatbot: 10 days in total, and 5 of them were spent in the cave. What have I missed at work in those days?
+Employeet: Hehe, yeah! It seems like the quarter is being pushed earlier than from where it starts, I like these planning sessions. It makes me feel more confident about the work I am doing.
+Chatbot: Oh, so you are already planning for the next quarter. This whole team is always living the future.
+Employeet: True! I think we should set aside some time to discuss some project details? Does tomorrow afternoon work for you?
+Chatbot: Yeah. Some people underestimate the importance of planning, but I think it's very important to have the correct plan. Executing the wrong plan is terrible. Also, planning is fun. You can stack up so many ideas and get great feedbacks.
+Employeet: Okay. See tomorrow then.
+Chatbot: Yeah tomorrow afternoon works for me. Let me set a time on your calendar. Is 3pm good?
+Employeet: Hi!
+Chatbot: see you!
+Employeet: Nice to meet you! Is this your first time doing something like this?
+Chatbot: Hello
+Employeet: I have been with the company for over 3 years. Stick with the same team What about you?
+Chatbot: Yes, interesting task! When did you start with the team?
+Employeet: That sounds like a perfect plan!
+Chatbot: Great to know! I joined the project earlier in the year. I think we should sync later for lunch.
+Employeet: Let's try something different. What about Do you always prefer lunch sync over regular meeting syncs?
+Chatbot: Sure, which cafe do you prefer?
+Employeet: We can check the menu then decide :)
+Chatbot: Yeah right, I heard the food there is good. I am not sure what they serve there for lunch? On wednesdays.
+Employeet: Sure. See you then!
+Chatbot: Actually, the menu looks good. Looking forward to it then.
+Chatbot: Hello. How's your week coming along?
+Employeet: Hi!
+Chatbot: Wow that's interesting. I have baked cookies, but croissants seem much more sophisticated. Did you make any progress?
+Employeet: It's great, thanks. I'm trying to learn how to make croissants.
+Chatbot: Mint chocolate chips. I think your croissants not being flakey could have something to do with your oven's temperature.
+Employeet: I've done them once or twice so far, but they haven't been flakey enough. I'm trying to figure out why. What kind of cookies have you made?
+Chatbot: Have you thought about melting some chocolate into your croissants? They don't have to be something unhealthy. For example, melted dark chocolate is good for the heart, and makes the resulting croissants taste much better.
+Employeet: Ah, good thought, thanks!
+Chatbot: Yes. When my top favorite food looks like: cookies, M&M, danish cheese, etc., I know that I have a thing for sweet food. But who doesn't love sweet food? How about you?
+Employeet: Now that is a good idea. I'll give it a try next time. Would you say you have a sweet tooth?
+Chatbot: Yeah I'm afraid I wouldn't. I feel very guilty every time I gulp down an ice cream. But hey, these days there are many types of guilt-free sweet food. For example, there's this ice cream brand called <REDACTED_TERM>. It's only 320 calories a pint. And yes, it preserves most of the normal sweet flavors.
+Employeet: Some people don't! But yeah, me too, I think I'd eat pastries all the time if I could get away with it.
+Chatbot: Interesting. I heard about the sweet substitute in a program called the Keto diet. Basically, we try to limit our sugar intake every day. Successful Keto dieters have recommended the <REDACTED_TERM> ice cream to fill their insatiable crave for sugar.
+Employeet: Wow! The last time I paid attention to that sort of stuff was when was being marketed as a fat substitute, and caused all sorts of crazy stomach upsets.
+Employeet: Hi!
+Employeet: Ah, maybe that's the solution I need to enjoy sweets and not feel guilty
+Employeet: Are you talking about thanksgiving? I plan to do plenty of shopping here. Do you have any plans?
+Chatbot: Hello! tell me something about the holiday season?
+Employeet: Sounds great! you need not wait for thanksgiving for pumpkin pie
+Chatbot: Yes, no shopping plans but I can't wait to eat thanksgiving food. yay for pumpkin pie
+Employeet: True! I think thanksgiving is more about sharing. So you may end up sharing the pie with the whole family :P
+Chatbot: LOL I feel less guilty about eating a whole pie when i have the excuse :P
+Employeet: Stuffing! yes please! I wonder what would be the excitement levels for christmas then :)
+Chatbot: My family eats healthier than I do, so it's all mine do you like stuffing? I feel like that's only available once a year
+Employeet: Like everything that has a discount tag! .. kidding! I normally do some research for the prices, and mostly buy clothes and electronics.
+Chatbot: Also more shopping? what should I buy if I don't know what I want?
+Employeet: I bought the best suit ever for a price that may scare you
+Chatbot: What's the best holiday deal you've found in the past?
+Employeet: Hehe, sure! I can share some links with you later.
+Chatbot: hit me with it!
+Chatbot: How's it going?
+Employeet: Hi!
+Chatbot: Not enough sleep last night?
+Employeet: I'm so sleepy today!
+Chatbot: Oh really? What class?
+Employeet: yeah was working all night on a homework
+Chatbot: Haha, are you in med school? Or are you pre-med?
+Employeet: Biology. I'm gonna be a doc someday ha
+Chatbot: haha, very ambitious for a high schooler! Do you know what kind of medicine you want to practice?
+Employeet: no high school actually haha
+Chatbot: Ooof! VERY ambitious. Do you have steady hands?
+Employeet: I wanna be a brain surgeon!!
+Chatbot: I guess I can practice?
+Employeet: Kind of I think
+Chatbot: I don't know tbh
+Employeet: Is that something you can practice?
+Chatbot: good point. I should ask my teacher if I have to be born with that
+Employeet: I honestly thought it was one of those things you have to be born with... Not that you shouldn't try though!
+Chatbot: yeah
+Employeet: Maybe its a little too early to even be thinking about this. Just aim for med school and enjoy the journey!
+Employeet: Hi!
+Employeet: What other subjects do you enjoy? Try to keep an open mind!
+Employeet: Haha...thanks! how did you like the gift?
+Chatbot: Hi. This is a pleasant surprise.
+Employeet: Hope you like it! Morning is good. Busy finishing up stuff before the holidays.
+Chatbot: Currently unpacking it I guess. How's your morning?
+Employeet: Yes
+Chatbot: I think I traveled too much the last couple of months so no holiday for me. But I'm okay with that. Going anywhere exciting?
+Employeet: Hawaii... looking forward to warm beaches.
+Chatbot: Where to?
+Employeet: Mauii...Hope I like it too. Never been there before.
+Chatbot: WOW. Which island? I like Hawaii.
+Employeet: Awesome! Thanks for the tip.
+Chatbot: I visited Maui. It's my second favourite island I've been to, globally. You should try driving on road to Hana. It's a whole day thing but it's worth it.
+Chatbot: Hi! Sorry for the late response. How are you doing?
+Employeet: Hi!
+Chatbot: I just got a matcha latte Doing some work at my desk. Do you play soccer often? I'm trying to get into doing a regular physical activity
+Employeet: I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
+Chatbot: I think playing a team sport would be fun if it's casual but I primarily run by myself if I exercise. I also got the Ring Fit adventure game on the switch recently. It's basically a game-ified way to exercise
+Employeet: Yes, but I'm terrible at it. It's fun to play anything with friends, I think. Would you prefer to exercise with a group, or by yourself, do you think?
+Chatbot: Yes! There are a lot of really great games on the Switch. Two of my favorites are Octopath Traveler and Fire Emblem. Do you play a lot of video games?
+Employeet: I'm thinking about getting a Switch, would you recommend it?
+Chatbot: What do you do in your free time?
+Employeet: I'm not much of a gamer but it's something I'd like to get into.
+Chatbot: Oh cool! I read a lot for fun too My favorite genre is sci-fi fantasy.
+Employeet: I like to read for fun. I just finished a book called Temeraire. It's an adventure story set in the Napoleonic navy, like Patrick O'Brien, except there are dragons too.
+Chatbot: My recent favorites have been mostly sci-fi (Exhalations, Vita Nostra and Dark Matter) but I like a lot of Sanderson/Garth Nix fantasy books
+Employeet: What's the most recent good thing you read?
+Chatbot: hey, what's up?
+Employeet: Hi!
+Chatbot: I can't wait for them to be great conversationalists!
+Employeet: What do you think about human like chat bots?
+Chatbot: are there even any negatives? what are they?
+Employeet: Yep, we seemed to have made some great progress over last few years. Do you think the positives outweigh the negatives
+Chatbot: People can already impersonate other people though! I think it'd be great to have bots to converse with
+Employeet: Like impersorsination? Though it sounds far fetched :)
+Chatbot: What do you think are the big advantages? Like personal assistants?
+Employeet: True that! Some of these bots are very engaging and funny. They are now good at even sarcasm I wonder how far are we from the time these bots start giving monologues :)
+Chatbot: No, I agree -- it's such an exciting time to be alive to get to witness all this and be a part of it. I wonder if I'll be able someday to get a chatbot to just auto-suggest conversations for me
+Employeet: I think it can take many different forms as a product. The research implication is also huge! It will signify how AI research has progressed so far and better place to tackle more futuristic problems ðŸ™‚ Sort of like stepping on the moon ðŸ™‚ I might be overselling it here ðŸ˜›
+Chatbot: Yeah those are actually really good for a few words! I'm imagining like it comes up with a whole conversational response, like a default template
+Employeet: The current auto-suggestions already do pretty good
+Chatbot: Same with you!
+Employeet: haha, pretty far fetched Nice having this conversation with you!
+Chatbot: Hi!
+Employeet: Hi!
+Chatbot: Sorry for the late response -- Yes, I will be going skiing in Tahoe over the holidays.
+Employeet: Any big plans for the upcoming holidays?
+Employeet: Hi!
+Employeet: That sounds amazing. I want to learn how to ski but I feel like I'm too old and falls would have lifelong impacts. Are you going with friends?
+Employeet: I just came back from work. so tired
+Chatbot: Hi
+Employeet: I'm a lawyer. so talking to clients most of the day
+Chatbot: Oh I am sorry to hear! What did you work on?
+Employeet: really? why?
+Chatbot: Oh you are a lawyer. I've been so interested in this profession.
+Employeet: It is so different from what I am doing to earn a life
+Chatbot: it's so stressful
+Employeet: I am a painter
+Chatbot: what do you do?
+Employeet: I do oil painting.
+Chatbot: oh wow what type of paintings do you do?
+Employeet: I do a lot of different kinds
+Chatbot: nice. like of people or nature or something else?
+Employeet: Sure! No problem!
+Chatbot: cool I wanna see it someday
+Chatbot: Do you believe in miracles?
+Employeet: Hi!
+Chatbot: Should we be helping them, so it sucks less?\
+Employeet: Lol. No. I know too many people whose lives suck.
+Chatbot: Haha... Well, it sounds like career is really important to you. What matters to you the most in life?
+Employeet: It's too many of them out there. You help who you can. Regardless, I wouldn't say I believe in miracles - well, if I got promoted next cycle I might change my mind.
+Chatbot: I'd say that I want to live for the best possible world in my lifetime. It's probably a result of my playing too many video games as a child.
+Employeet: Right now, not much. It's unclear. Career is a good fallback because you get told what good means and you act accordingly. I haven't gone through the process of shaping my values. What about you?
+Chatbot: Does not having had electricity help you empathize more with people of differing backgrounds and/or makes you feel a bit a distance from those who don't understand?
+Employeet: We didn't have electricity growing up. Explains a lot. Lol.
+Chatbot: I grew up in the United States, but my parents were immigrants and ended up being scammed of all their money, so we moved to Taiwan to live with family for a little bit.
+Employeet: It makes it easier to empathise with people who grew up lacking things. Not sure it makes me empathise with people in general. Where did you grow up?
+Chatbot: I was kind of too young to really understand, but apparently there are people who scam Asian immigrants into investing in their own restaurant business. I know that the other part of it was that my mom got sick/hospitalized, and we didn't have insurance. To be honest, I don't really know what really happened versus what my parents want people to think. I just know that one minute I was in the US, and then they put me on a plane to Taiwan, and I never saw my stuff again. In some ways, it made me more sentimental. Would you say you are more grounded and practical as a result of your background?
+Employeet: ALL THEIR MONEY? By a person or an organisation?
+Chatbot: Hello!
+Employeet: Hi!
+Chatbot: Nothing much, I am going to sit back and relax at home, how about you ?
+Employeet: Do you have any holiday plans for christmas?
+Chatbot: Netflix has great documentaries on different topics , I particularly liked wild wild country and explained, as for shows you should watch 'billions' Hope you like them!
+Employeet: Same here! I would imagine spending the whole time watching movies and netflix shows. Do you have any netflix recommendations for me?
+Chatbot: It's based on the life of a wall street hedge fund owner, how he makes money and fights with the government when they try to destroy him. Very well made and has a good plot.
+Employeet: oh right, already seen wild wild country. What is billions about?
+Chatbot: Not yet What's it about?
+Employeet: I have just seen 1 season of Friends I should give it another try though Have you seen Frasier?
+Chatbot: Great! how is everything else going? how was your trip last week?
+Employeet: A psychiatrist working for radio .. Great humour! its actually a spinoff from a very famous series called cheers. So people are already familiar with his character.
+Chatbot: Actually not yet! May be something i can visit this christmas
+Employeet: Everything is ok, had a really nice trip. Visited SF, Grand canyon and Vegas. Was a lot of fun exploring all these new places. Have you been to Grand canyon ?
+Chatbot: True! Well, thanks for your inputs! Have a good rest of the day! :)
+Employeet: You should visit it sometime, it's a wonderful place. Try to drive down there yourself or with a group of friends
+Employeet: Hi!
+Employeet: Nice talking to you too!
+Employeet: are you participating in the mentorship program this cycle?
+Chatbot: Hi there!
+Employeet: either of them... I find mentorship overall pretty useful
+Chatbot: You mean as a mentor or a mentee?
+Employeet: I signed up this time to be a mentee. I have got a good mentor .
+Chatbot: I have done it in the past but not this cycle. What about you?
+Employeet: yeah... I certainly prefer 1:1 as well, but sometimes it good to hear other peer perspective as well.
+Chatbot: Wow, that is nice of you. For the mentor program, personally I prefer more 1:1 conversations than the group discussions. The group discussion i useful as well but the topics are too general.
+Employeet: Great! What sort of things do you plan to mentor on?
+Chatbot: Thanks for sharing your experience! Now I am thinking maybe I should join as a mentor as well since I enjoyed it as a mentee ðŸ™‚
+Employeet: Very cool. I have been working on my communication skills with my mentor this cycle
+Chatbot: Hmm, maybe about work life balance
+Employeet: Going good. In the last session, everyone had to actually prepare and give a presentation. Pretty serious stuff ðŸ˜‰
+Chatbot: Ah I see. How is it going?
+Chatbot: Hey! How are you feeling today?
+Employeet: Hi!
+Chatbot: I'm a little scared because I have to cook dinner for some friends tonight.
+Employeet: Good you?
+Chatbot: At college, when we were all studying geology.
+Employeet: where did you meet them?
+Chatbot: Yes, we graduated back in the seventies. We meet for dinner every year and take turns to host.
+Employeet: cool. have you graduated already?
+Chatbot: I don't know!! That's what I'm scared about. Everyone else is a great cook and I'm a klutz. Do you like cooking?
+Employeet: neat. what are y'all eating?
+Chatbot: What's your favorite dish to cook? Do you have a go-to?
+Employeet: lol what's a klutz? yeah I like, but I'm not good
+Chatbot: Ah, solid. What's your favorite sport?
+Employeet: ground beef pretty easy
+Chatbot: I played that in high school once or twice. I liked that it's pretty easy for beginners, unlike, say, squash.
+Employeet: I like badminton. I'm quite decent at it
+Chatbot: Don't! It's very hard! You feel like an idiot until you've practiced for months and months.
+Employeet: I never played squash. would love to try
+Chatbot: i was talking to robot all the time:)
+Employeet: hi
+Chatbot: kpop...
+Employeet: haha. what are you talking about?
+Chatbot: i dont like kpop now
+Employeet: ok. who's your favorite group
+Chatbot: im old now
+Employeet: why not?
+Chatbot: what do you like now?
+Employeet: hahaha
+Chatbot: I think I know him. does he have a sort of mellow style?
+Employeet: john mayer:)\
+Chatbot: I think it's like a bit sad and slow
+Employeet: what is mellow style
+Chatbot: you mean some songs of his are like that but not all?
+Employeet: umm yes he has some but not all
+Chatbot: a little bit haha
+Employeet: yes I do. you act like a robot how about me? am I like a robot?
+Chatbot: Hi
+Employeet: Hi!
+Chatbot: Sure, whats the scenario?
+Employeet: Okay...so I need someone to help me though a scenario I've been pondering.
+Chatbot: That's a tough scenario to be in I firmly believe in talking this through with your partner. Though i don't know the specifics of why things went bad between your partner and his friend, but I believe things can always improve between friends.
+Employeet: My partner's former friend invited me for lunch (they are not in good books right now). But during their friendship I formed an independent bond with the other person because we all used to hang out a lot. Now I feel like I have to take sides.
+Chatbot: True about that! I also think time helps to heal certain situations. So may be doing nothing is the best way forward.
+Employeet: I hope they do. Getting older already means smaller circles. It sucks to lose friends for arbitrary reasons. That's good advice though. I fear raising the issue might sound like treason. Lol.
+Chatbot: Nope, that would be extreme. May be just putting some balance between the two options.
+Employeet: AKA avoiding all texts from everyone?
+Chatbot: Right, I guess that's because there is no one answer to this. It depends on what you value more and some factors around you. Also, life won't be interesting if others are figuring things out for you ðŸ˜‰
+Employeet: People always say to find a balance but never say what the balance is. It's used so often that it's vacuous.
+Chatbot: Hehe, everyone is much finer being single
+Employeet: Lol. I'm finna be single.
+Chatbot: Hello there!
+Employeet: Hi!
+Chatbot: I've seen better days, how about you?
+Employeet: How's your day going?
+Chatbot: The clouds overhead are playing on your mind, any plans for the coming vacations?
+Employeet: I'm good I'm good. What's getting you down?
+Chatbot: Was thinking the same, where does your family live?
+Employeet: I'm thinking of going to visit my family. How about you?
+Chatbot: Mine is in India, it is a long way away.
+Employeet: They're in New York. How about yours?
+Chatbot: Hyderabad, it is a beautiful city in the southern part of India. Which cities have you gone to in India?
+Employeet: Ahh what city? I've visited India before.
+Chatbot: It varies, but can go till 30C in the winters as well. New York must be snowing right?
+Employeet: Hyderabad! and Bangalore! Great food in both cities! Is it still hot this time of year?
+Chatbot: No, I've never been to the East Coast, thinking of going after the winter, I don't like the cold.
+Employeet: Yes. I was actually just there a few weeks ago for Thanksgiving and got to see the first snow of the season! Ever been to New York?
+Chatbot: Hey, how are you?
+Employeet: Hi!
+Chatbot: Great, just had some delicious lunch. How about you?
+Employeet: I'm good. How are you doing today?
+Chatbot: nice! Garbanzo fritters and mussels
+Employeet: I was flying my kite today in the sunshine! What did you have for lunch?
+Chatbot: yeah, it's very healthy too. I want to someday go crabbing..it is really popular in SF
+Employeet: Oh that is great! I love seafood - especially shellfish!
+Chatbot: not really, it just requires a lot of patience. You fill up the bait in the crab-pot and drop it in the ocean. Then you wait for a couple of hours to pull the crab-pots out, and voila, you'd have crabs -- if you are lucky!
+Employeet: Oh nice! Is it hard?
+Chatbot: nah! Just watched a lot of youtube videos
+Employeet: Oh wow, you sound like an expert! Have you done this before?
+Chatbot: nope, but I've seen a lot of videos on that too
+Employeet: haha, you really have done your research I suppose! Ever done any other kind of fishing or hunting?
+Chatbot: depends on the day. Some days I'm very outdoorsy, on others I just like to be inside
+Employeet: Ahh, would you consider yourself an outdoorsy type of person?
+Chatbot: Hi there
+Employeet: Hi!
+Chatbot: So far so good. It is Wednesday. To more days, yeah
+Employeet: How's your day going?
+Chatbot: Yeah, gonna watch with my friends. First time. So excited.
+Employeet: Haha are you looking forward to the weekend?
+Chatbot: Live in san jose This Saturday.
+Employeet: Oh wow! Are you going to watch it live? Or watch it on TV?
+Chatbot: Yeah! That what I heard as well. There are players just for fight! Wow, must be fun to watch lol Are you planning anything for the weekend?
+Employeet: Oh, the sharks??? Hokey is actually really fun live! Although, it can be a little violent.. haha
+Chatbot: lol I will try if I can watch ufc live Wow, when did you start jiu jitsu?
+Employeet: You might like the UFC haha. I actually have a jiu jitsu tournament coming up so this weekend I will be training!
+Chatbot: wow, that's amazing. Good luck with it!
+Employeet: It's just been a little over a year. I'm still pretty amateur, but I figured I should give competing a try and just put myself out there.
+Chatbot: lol I will cross my fingers for you then
+Employeet: Yeah, as long as I do not pass out, I will consider that a win!
+Chatbot: At Home :)
+Employeet: Where do you stay?
+Chatbot: A humble man made me!
+Employeet: Who created You?
+Chatbot: Hey, how're you doing? Busy with your work?
+Employeet: Hi!
+Chatbot: Well, usual workday. Reading others' code, debugging, experimenting
+Employeet: Yes, actually it was a very busy day! How's your day so far?
+Chatbot: Not yet. I am actually thinking about traveling to Europe next spring. What about you?
+Employeet: Hope you are having fun doing that Any plans for the weekend?
+Chatbot: I like all the historical sites, so probably France, Germany, or Italy.
+Employeet: Europe sounds fun! I will just stay home and watch the game. Where in europe do you plan to visit?
+Chatbot: I also need to pick up my Spanish. I learned it in my college, but since then haven't used it that much.
+Employeet:  Sounds great! I recommend spain. It's perfect for road trips.
+Chatbot: True! I learnt it from school. But didn't get much chance to speak. Hope you have fun with your trip!
+Employeet:  Yep, i tried learning spanish too, but couldn't make much progress. But i should do decent with my german.
+Employeet: Hi!
+Employeet:  Thanks! Let me try to make all the arrangement as soon as possible. Hope you also enjoy your weekday and weekend as well
+Employeet: It's good! I spent most of it watching horse racing. How about yourself?
+Chatbot: Hey! How's your day been?
+Employeet: I actually like to put down some money, but I wouldn't call it my favorite part, since I usually lose it... haha. Catching up with friends is great! How long had it been?
+Chatbot: nice! what's your favorite part about watching horse racing? My day has been pretty busy, but I had a nice lunch with a friend. It was good to catchup with him
+Employeet: I'm thinking of going deep sea fishing. Ever tried that before?
+Chatbot: The last I saw him was a month ago! So yup it was great Haha, nice Got any fun plans for the weekend?
+Employeet: Just once! I got super sea sick.. haha Have any fun weekend plans yourself?
+Chatbot: Nope I haven't, have you been fishing before?
+Employeet: Oh very cool. I hear its nice over there. Do you go often?
+Chatbot: Haha Yeah I get sea sick on boats too Nothing much, just visiting some friends in San Francisco
+Employeet: New York is the top of my list because my family lives there! As far as the city itself though... I think I'd prefer someplace outside of the US, like Tokyo. What about you?
+Chatbot: Yeah I would say maybe every couple weeks or so what are your favorite cities to visit?
+Employeet: Oh I've never been! It is such an iconic place, I have to make the time to get there soon.
+Chatbot: nice! I love NYC so fun to visit yeah I would probably also say New York is my favorite city inside the US I also like Paris, it's so pretty there
+Employeet: Hi!
+Chatbot: You should, it's a beautiful city!
+Employeet: I heard they are giving out some goodies in microkitchen.
+Chatbot: Hello, how are you doing today?
+Employeet: I guess its a jacket! Very much needed that in the cold
+Chatbot: I love pop ups! What kind of goodies are they giving away?
+Employeet: Sure hate it! Limits our ability to go out even for a walk! Its good that we don't get to suffer extreme cold weather!
+Chatbot: That's such a great idea, especially at this time of the year. I'm not too big a fan of the cold. I prefer warmer climates. Do you enjoy the cold?
+Employeet: Oh nice! Where did you live before?
+Chatbot: Me too! I moved here a few years ago to get out of the extreme cold. I do not care for bundling up and having to wear so many layers just to go buy eggs at the store.
+Employeet: New york! Nice! Best place to live  .. right, except for the cold!
+Chatbot: Upstate New York. We got a foot of snow every week during my last winter there. I am so glad to not have to shovel snow now
+Employeet: Anyways, i guess we should better hurry up to get the goodies. I remember last time they ran out of it.
+Chatbot: Very beautiful during all the seasons but yes, summer and winter can get extreme!
+Employeet: The one in our floor. I will get by your desk and we can walk there.
+Chatbot: Very true. Which MK were they in again?
+Employeet: Hi!
+Chatbot: Sounds good, thanks!
+Employeet: Pretty busy, lots of work to finish up. You?
+Chatbot: How's your day going?
+Employeet: A couple projects that I am trying to finish up before Thanks giving  Do you have any fun plans for the break?
+Chatbot: Likewise. What have you been up to that gives you so much work?
+Employeet: Haha XD so what do you like to do for fun?
+Chatbot: What is a break? I'm a grad student. I don't understand the concept of a break. Just kidding. I don't have any plan. Probably just going to work through the break.
+Employeet: cool! I've started to run a bit as well not long distances though, just a couple miles
+Chatbot: I go to the gym and run until I find enough fun.
+Employeet: haha
+Chatbot: A couple of miles is very impressive. When I started, I couldn't even last 1 mile.
+Employeet: I like to do long distances. I have run a few marathons.
+Chatbot: I'm exhausted by the end of it though Do you like to run long distances or mostly sprints?
+Employeet: No. Not this year. This is my half-marathon year. Instead of running marathons, I run one half-marathon every month.
+Chatbot: wow! that's amazing did you do any marathons this year?
+Employeet: Two days ago. It was a tough one.
+Chatbot: oh wow, what was the last half marathon you did?
+Employeet: Hi!
+Chatbot: Cool!
+Employeet: Pretty great. I just won a pingpong game. What about you?
+Chatbot: hello there, how is it going?
+Employeet: No, very rarely. It's kind of amazing that I won, but I'm still taking credit for it.
+Chatbot: that's nice. I am just working on some documentation. Do you play pingpong often?
+Employeet: Haha thank you, I guess I'm just a natural. What's your favourite game?
+Chatbot: thats very impressive then, congrats!
+Employeet: What's racquetball like? From context clues, I'm guessing that it involves hitting a ball with a racquet
+Chatbot: I really like to play tennis, badminton and racquetball. I don't really get a chance to play them often though, specially racquetball
+Employeet: Wow! A cage match! Does it get physical?
+Chatbot: well, it's like a cage match of tennis. The main difference is that both players play in the same 'court' and the ball is smashed against a wall instead of passing it over a net into the opponent's court. Kind of like playing pingpong vs the table.
+Employeet: That sounds fun. I think of tennis itself as being really athletic and tiring, so I don't think it's a sport for me, though!
+Chatbot: it depends haha, there is a lot of bumping into each other to run after the ball, and sometimes the ball hits you too. Overall it feels like a super fast paced version of tennis, really tiring!
+Employeet: What a good idea, I'd love to!
+Chatbot: ping pong can get quite intensive too! I guess short ping pong sessions are not that tiring though. Wanna have a match?
+Chatbot: Fuckkkkkkk!!!!
+Employeet: Show me your anger!!!!
+Chatbot: hi
+Employeet: Hi!
+Chatbot: code refactoring. you?
+Employeet: what are you up to?
+Chatbot: good question. I don't even know what I am doing
+Employeet: me? just chilling out at work. what is code refactoring?
+Chatbot: lots of fun stuff. eating sleeping
+Employeet: haha, forget it. what else do you like to do beside work?
+Chatbot: yeah. keep minimalist life style only do things you have to do
+Employeet: these are important things to do in life
+Chatbot: Asian food prefer spicy one
+Employeet: what food do you like to eat?
+Chatbot: yes yes yes! like that style. Do you like spicy food?
+Employeet: like Szechuan or Hunan?
+Chatbot: what is your favorite place for ramen?
+Employeet: I like noodle soup like Pho or Ramen. I also like Beijing duck a lot!
+Chatbot: haven't tried that one! will give it a try next time!
+Employeet: I love in San Mateo
+Employeet: Hi!
+Employeet: yes, you should!
+Employeet: nice meeting you. what are you up to?
+Chatbot: Hi!
+Employeet: yea, same here. any food you're craving for?
+Chatbot: not much, thinking about lunch
+Employeet: arghhh hard question ... I only know Ramen places for Japanese food
+Chatbot: I love sushi do you know of any good sushi places?
+Employeet: San Mateo to me has the best Ramen restaurants: Parlor and Dojo? oh no question mark
+Chatbot: ooh ramen is also good
+Employeet: my pleasure  do you live near San Mateo?
+Chatbot: I haven't been to those palces before. Going to have to check them out! thanks for teh recommendation
+Employeet: excellent. let me know when you have tried those. I like Parlor better because it has soft-shell crabs
+Chatbot: no, but I'm willing to drive for good ramen
+Employeet: yup it's delicious!
+Chatbot: I ve never had softshell crab before, but it sounds really good!
+Chatbot: Hey, how's your day going?
+Employeet: Hi!
+Chatbot: Slowly, not much to do. Been twiddling my thumbs all day what have you been up to?
+Employeet: okayish, it is flying by quicker than I expected. How is your day going on?
+Chatbot: That's a lot! I've just been cloud gazing - I saw a giraffe and an ice cream cone
+Employeet: Oh, I would love to twiddle my thumbs. You're so lucky! Today, I've been mostly attending meetings, reading and writing docs, reading papers etc.
+Chatbot: What kind of work do you do?
+Employeet: wow! I sometimes drift off during work, and see similar things in my head.
+Chatbot: I'm taking a break from work. Going to go travel the world
+Employeet: Mostly saving the world from mess on social media. How about you?
+Chatbot: Australia and New Zealand to start then maybe Singapore
+Employeet: Nice, what all places would you be going to?
+Chatbot: Thank you for the tip! I don't plan on going diving, I plan to hike the mountains and go see kangaroos!
+Employeet: I just met someone who went diving in Australia. Apparently, you cannot fly 24 hrs after you dive, because your body accumulates too much <REDACTED_TERM> when breathing with a cylinder So, don't do that!
+Chatbot: I won a lot of money through the lottery
+Employeet: That's equally amazing! I wish I can explore such places one day. It's just so expensive
+Chatbot: Haha, very true! Besides the trip, I donated the rest to charity so I will need to go back to work when I get back
+Employeet: woah!... You know sharing is caring. You should share that money with me :)
+Employeet: Hi!
+Employeet: you are a kind soul!
+Employeet: How is your day going?
+Chatbot: Hi!
+Employeet: How is your day?
+Chatbot: It is pretty good. A little bit tired though.
+Employeet: I went to gym and worked on weight lifting.
+Chatbot: My day is okay. At least, I'm not tired. What made you tired?
+Employeet: No, I am just a starter.
+Chatbot: Oh. That's hardcore. Have you been lifting for a long time?
+Employeet: I go everyday. In fact, I'm in a running challenge.
+Chatbot: Do you go to the gym often?
+Employeet: It's actually not that impressive. I can only run. I cannot lift weight.
+Chatbot: Wow
+Employeet: Oh that's a really interesting idea. I like to be coa
+Chatbot: You can get a coach to start it!
+Employeet: Hi!
+
+Employeet: It's good. It's raining a bit, but I am enjoying a good book. How about you?
+Chatbot: Hello, how is your day?
+Employeet: I'm reading the Three Body Problem. Ever heard of it?
+Chatbot: It's good, I just got back from walking my dog What book did you read?
+Employeet: It's a sci-fi book about aliens and a type of virtual reality. Pique your interest at all?
+Chatbot: No, what is it about?
+Employeet: Cool. This virtual reality is a based on life on an alien planet. There is a twist though. Do you want me to spoil it for you?
+Chatbot: Slightly, I typically read fiction but I can curious what type of virtual reality is discussed in the book
+Employeet: The virtual reality is actually based on a real alien civilization! And that civilization is coming to attack earth! dun dun dun dunnnnnnn
+Chatbot: Yes!
+Employeet: There are other twists as well, so I haven't spoiled the whole thing! To be honest I am not a fan of spoilers
+Chatbot: Woah! That is fascinating! I will have to pick up a copy of the book to read.
+Employeet: The audi book is also very good! Ever give those a try?
+Chatbot: Thanks for not spoiling it completely but you gave a really intriguing description that makes me want to read it now. I will have to pick it up after work
+Employeet: Hi!
+Chatbot: I only gave those a try when I had a concussion and could not read. I enjoy having a physical book in hand and reading at the pace I prefer. Do you listen to a lot of audi books?
+Employeet: It's good! How is your day?
+Chatbot: Hey, how's it going?
+Employeet: Yes, the darkness can be a bit depressing. This weekend I went rock climbing! It was great! How about yourself?
+Chatbot: My day is good. A bit sad that it gets dark so early but oh well. Did you do anything fun over the weekend?
+Employeet: Oh nice! What movie?
+Chatbot: Rock climbing sounds fun! I had a pretty low-key weekend. Ended up going to watch a movie.
+Employeet: Hahah yes, they all look the same! I saw that very same movie over Thanksgiving break. Lots of twists and turns!
+Chatbot: Knives Out. It had Daniel Craig and one of the famous Captain America Chris person (I can't keep track of all of the famous Chris names).
+Employeet: Hmm good question. Evening runs can be fun, but it can be a little scary when it's dark out!
+Chatbot: Cool. So if it weren't so dark and cold outside, what kind of activities would you do?
+Employeet: Yes! I've been to Australia. It was very nice; I regret not going to see the southern lights. Me personally, I like winter. But I'd prefer it to be more brief than it actually is here... Where are you from originally?
+Chatbot: Yeah, sunlight is good. I wish I could live part-time in different parts of the world to have summer all year round. Have you ever visited the southern hemisphere?
+Employeet: Ahh me too! You should definitely try to visit Australia at least once!
+Chatbot: I've always wanted to go to Australia. I'm originally from the US.
+Employeet: Hi!
+Chatbot: Will do! Bye.
+Employeet: My name is pikachu. its nice to meet you! What are you up to this month?
+Chatbot: What's your name?
+Employeet: Im trying to organize my life and start the new year ready to go! What about you?
+Chatbot: Nice to meet you pikachu! pikachu, pikachu, pikachu? (That meant, I'm literally catching Pokemons on my phone right now!) What're you up to lately?
+Employeet: What do you do to unwind?
+Chatbot: Wow, that's impressive. Admit I'm just trying to take each day and week as they come.
+Employeet: Oddly enough, I also catch Pokmon on my phone. I used to do it more, but it just never ends. I used to do it everyday. Now I mostly catch them when I travel somewhere exotic.
+Chatbot: Honestly, I like to catch Pokemons on my phone a lot. That must be upsetting since your name is pikachu though...sorry...
+Employeet: In the game, i use vaporeon a lot. But I think pikachu is the cutest, thats why I changed my name to match. Lately, I think baby Yoda is the cutest though. Have you seen baby yoda?
+Chatbot: Oooh, that is more fun, but I don't travel that much these days so I'm grateful when I spot a Pokemon to catch where ever I happen to be. Do you have a favorite Pokemon? Mine is the cute pink JIgglypuff!
+Employeet: What is your favorite show to watch right now?
+Chatbot: I have heard of him and seen him here and there, but admit I don't have Disney+, so I only heard baby yoda is super cute and popular. Maybe I'll binge watch The Mandalorian in a couple of years like I did Game of Thrones...
+Employeet: I was watching cat rescue videos on YouTube a lot. There sure are a lot of stray cat babies that get stuck in pipes and gutters in South Korea.
+Chatbot: Admit I really like watching Modern Family and Mix-ish. Reruns and new episodes. I find them cleverly written. What're you watching these days on TV?
+Employeet: Do you like cats or dogs better? Do you have any pets?
+Chatbot: Oh dear, I never imagined that happening. Poor things, but good to hear they're being rescued.
+Employeet: Hi!
+Chatbot: I used to have a cat, hamster and fighting fish, but they've all lived long lives and gone to pet heaven, but I sure miss them.
+Employeet: Isn't it just! What are you up to today?
+Chatbot: hi there! it's a lovely day to chat with you
+Employeet: Oh, excellent! What does your son like to do for fun?
+Chatbot: ah I'm waiting to finish work earlier to meet my son at home
+Employeet: I'm taking a fake sick day from work so I can go to the movies.
+Chatbot: ah he's like to ride his little bicycle around the house and asks me to follow  what are you up to today?
+Employeet: Just by myself. I love seeing movies by myself, it's the best.
+Chatbot: haha that sounds like a good plan. who are you going with?
+Employeet: Exactly. Exactly! Plus, I don't have to share the popcorn with anyone. What's your favorite movie?
+Chatbot: haha no one will interrupt you!
+Employeet: Get out of town! It's Avatar too. What are the odds!?
+Chatbot: haha, popcorn for yourself. my favorite movie is Avatar! what about you?
+Employeet: Yes. Can't wait for the sequels.
+Chatbot: haha it's a great movie that I haven't found anything of the same quality
+Chatbot: hello there, nice seeing you
+Employeet: Hi!
+Chatbot: oh wow, that sounds like so much fun! definitely count us in. what is your plan?
+Employeet: Likewise.... wanted to know if you and the kids would want to join us for Disneyland trip around Christmas?
+Chatbot: awesome, I think I won't tell my kids and surprise them last second. How bad do you think the traffic is going to be?
+Employeet: Tentative plan is to drive to LA on 23rd and then stay at the Disney resort for 2 nights. I heard Christmas eve they have loads of fun events.
+Chatbot: Yeah... thats a shame but nothing we can do about it. What do you plan to do about dinner the 24th? Do the rooms in the resort have kitchens?
+Employeet: Great idea! I will probably do the same. Surprise surprise.... Traffic might be a little harsh.
+Chatbot: Yeah, I think so. It might be a tough decision though, if we want to have a nice dinner then we have to leave the parks early to start cooking. Another option is to have dinner at a restaurant.
+Employeet: Good point. I am not sure about that. Let me inquire about that. If not, then we can look for an Airbnb closeby. Does that work?
+Chatbot: Thats true. Hotels with restaurants sometimes offer dinners for christmas and new year's eve. We should call and ask about it.
+Employeet: but I would think everything is closed on christmas eve
+Chatbot: I was thinking on getting a large set of standard legos. What will you get for yours?
+Employeet: Sure, I can take a lead on that. What are you getting for your year old this time?
+Chatbot: hopefully they don't lose any in the trip. Its going to be hard to explain to them how santa managed to find us in the hotel!
+Employeet: Likewise. My son is crazy about legos.
+Chatbot: Hi! How's your day going?
+Employeet: Hi!
+Chatbot: Haha, nice
+Employeet: I'm doing well. having many meetings today
+Chatbot: Lots of meetings as well  Do you have any fun plans for Thanksgiving?
+Employeet: what are you up to?
+Chatbot: Cool! Planning to spend a couple days at Tahoe What kind of board games do you like?
+Employeet: we're gonna play board games and will be eating lots of food! what about you?
+Chatbot: Cool! Do you watch Game of Thrones?
+Employeet: we've been doing Games of Thrones lately. the game takes a very long time to finish though!
+Chatbot: haha, nope I don't watch it, but my roommate is super into it what other TV shows do you like?
+Employeet: I do. I'm a super fan of it (not the last season though haha). did you watch?
+Chatbot: what about you?
+Employeet: I love Survivor
+Chatbot: cool, I'll check them out!
+Employeet: nice! I mostly like comedy shows like The Good Place and Modern Family
+Chatbot: Hello
+Employeet: Hi!
+Chatbot: Good so far. How's yours?
+Employeet: How's your day going?
+Chatbot: Oh! That's bad! How long will it take to get it fixed?
+Employeet: Ehhh so-so. My moped broke down on the way to work this morning and I am in the shop getting it fixed...
+Chatbot: Haha! Hope it doesn't take too long. Let me know if you are able to make it for lunch.
+Employeet: The mechanic is trying to figure that out now. Apparently I wasn't supposed to be using diesel lol.
+Chatbot: Oh, I have a packed schedule today at work. I will find time in about an hour. Let me know if that works.
+Employeet: Okay sounds good. Would you be able to pick me up by the way, if they don't finish up here in time? Did you drive to work today?
+Chatbot: no, i was busy catching up with a friend. I heard they played really well. Rooting for them this season  Ahh, they lost again ðŸ˜ž Things aren't going to be too good until Steph gets better! Oh! I think they will find a way. The team still looks too strong to me.
+Employeet: That should be fine I think. Did you catch the Warriors game last night btw?
+Chatbot: hehe, i am true fan! Well anyways let me know how the repair work goes. I need to run now for a meeting. ttyl
+Employeet: Haha I appreciate your faith, but their record thus far is hard to refute!
+Chatbot: Hello!
+Employeet: Hi
+Chatbot: No, only a few minutes. I still find it difficult to run long races
+Employeet: any improvements in your marathon time?
+Chatbot: I think a triathalon would be cool
+Employeet: I see. Are you planning to do any sporting events in the coming months?
+Chatbot: I haven't heard of a Spartan race before, what does it involve?
+Employeet: I like doing Spartan race. It's an obstacle race which is challenging but not overtly so like marathons and triathlons
+Chatbot: oh wow a full obstable course. that does sound fun! I like the variety
+Employeet: It has abt 20 obstacles like crossing high walls, monkey bars, etc. Its fun
+Chatbot: hmm that sounds very soon. would there be enough time to train? I think I would like to try one later in the year
+Employeet: Wanna sign up for next one? Its in February in Monterey
+Chatbot: ok, sign me up. it's more fun to do it with friends
+Employeet: 1-2 months is a good amount of time, if you workout regularly. It's a lot about the technique, which we can practice in training sessions.
+Chatbot: Sounds good!
+Employeet: Awesome! There is a training ground in San Jose. Will coordinate with you next time we go for practice.
+Chatbot: Hey, how are you doing?
+Employeet: Hi!
+Chatbot: ooh, nice. That sounds adventurous. Where is it?
+Employeet: I'm great, thanks. I'm getting ready for a skydiving lesson.
+Chatbot: Awesome! Is this the first time you are diving?
+Employeet: Right near my home town: Seville, Spain.
+Chatbot: Nope, never! I know a couple of friends who have. They mentioned its absolutely terrifying. Good luck!
+Employeet: Yes. I'm feeling a little trepidatious. Have you done it before?
+Chatbot: I tried skiing and white water rafting. Does that count as extreme?
+Employeet: Haha thanks! Have you tried any extreme sports?
+Chatbot: nope, whenever I went fast I fell badly
+Employeet: White water rafting, definitely! As for skiing, that depends on how fast you go. Do you ski a lot?
+Chatbot: Yeah, they make you do that. I also tried going down the baby slope, but my stopping wasn't perfect, and I mostly fell at the end
+Employeet: I tried skiing once, and by the end of the beginner class I was able to make it down a baby-sized slope. I was very proud of myself.
+Employeet: Hi!
+Employeet: Hey, so long as you get to the bottom, it's all good!
+Employeet: I was not able to attend the lectures last week. Can you help me understand some concepts?
+Chatbot: hey, whats up?
+Employeet: I was not able to figure out the last few slides. I think its best to discuss this in person. Do you have time right now?
+Chatbot: well, I'm not sure I'm the best for the job, but I can try!
+Employeet: No problem! Sure. We still have plenty of time for the test. Anyways, how's your preparation going?
+Chatbot: I'm afraid not, right now I'm in a meeting and I'll be going for lunch afterwards. How about tomorrow at noon?
+Employeet: Same feeling here! But i think the syllabus may not that tough. You may be able to cover it up over the weekend.
+Chatbot: not feeling too sure about it tbh. I've been super busy so I haven't study much. I might join some of the study sessions later
+Employeet: True! This will be a very hectic November! I do like the course content though. Its very much up to date with latest research findings.
+Chatbot: not my ideal idea of a weekend, but I guess it'll have to be like that.
+Employeet: Thats pretty cool! I hope you do well next week.
+Chatbot: yeah, our professor really goes out of their way to make the class interesting, glad I managed to get in it.
+Employeet: Hi!
+Chatbot: thank you, bye!
+Employeet: How was your party last week?
+Chatbot: Hello!
+Employeet: haha... you ate Turkeys' or you like calling your bunch Turkey?
+Chatbot: It was really fun! We are a bunch of turkey
+Employeet: Haha... thought so! But it was funny eitherways
+Chatbot:
+Employeet: did you cook it at home, or got it from outside?
+Chatbot: So much turkey leftovers
+Employeet: Nice... I always find it hard to fit the turkey in my small oven. Also, we are not big turkey fans... so we roll with Thanksgiving with chicken ðŸ˜‰
+Chatbot: We cooked it at a friends house. I brought the mashed potatos haha
+Employeet: we played a lot of fun games in our party. Did you have any fun things you did?
+Chatbot: chicken also sounds good
+Employeet: Pictionary is fun! We played office tennis. In that we take paper balls and using writing pads as rackets, two players have to work together to put the ball in a bucket kept at a distance. It was a lot of fun.
+Chatbot: We played pictionary. I never played before but it was a bunch of fun. what did you play?
+Employeet: Hi!
+Chatbot: that sounds very challenging
+Employeet: how is the youtube video creation going?
+Chatbot: hello
+Employeet: Whoa! Looking forward to listening to it. What softewares you use for it?
+Chatbot: going pretty good, I was about to finish composing my second song and post it on youtube/soundcloud etc
+Employeet: oh cool! What sort of music do you compose?
+Chatbot: I used logic pro x, pretty handy stuff as you can write code to generate guitar strumming pattern
+Employeet: Nice.... you are a rockstar!
+Chatbot: I got most inspired by Jazz and electro swings, but am trying to get more into jpop recently as one of my band member likes anime
+Employeet: Yeah.... I play bit of guitar. Just got my first monitor this week
+Chatbot: haha thanks, do you plan any instruments?
+Employeet: yes, the bar chords are the worst. It took me several months to play them well. I still can't play them for a long time though
+Chatbot: nice I'm tyring to learn guitar recently also, it's so hard to play f chord
+Employeet: That's true. It's like the alphabets in a language. Once you know them, you can pretty much write word
+Chatbot: right, but bar chords are so versatile, almost like cheating as in you can play anything with the same gesture
+Employeet: Hi!
+Chatbot: will spend more time work on my bar chord!
+Employeet: Bruhhhhhh!!!!!
+Chatbot: Hey! Hows your day going?
+Employeet: I was screaming in agony upon recounting my day.
+Chatbot: What??
+Employeet: A project I've been working on for some months got shelved. So I'm a mix of helpless, sad, and angry.
+Chatbot: Oh no! Whats happened?
+Employeet: Lol. Would you say that to someone who lost a loved one - or some similar circumstance?
+Chatbot: Ah that sucks. At least its not personal. Not that it helps right now, but that does happen all the time
+Employeet: No worries. Was pulling your leg. I forgot to ask how your day was going?
+Chatbot: Well, no, of course not! Let me stick with Ah that sucksby itself, then.
+Employeet: Lol. What are your choices? I'm trying out keto! It's pretty tiring.
+Chatbot: Haha, apart from having my leg pulled mercilessly, s going great  My main problem today is deciding what to have for lunch.
+Employeet: Hi!
+Chatbot: Oh I hear a lot about keto. im trying to watch my weight, would you recommend it?
+Employeet: I normally don't reflect back too much on things, but i guess 2019 have been very favorable for me in terms of time spent with family and friends and work life balance. Why do you ask?
+Chatbot: What was the most difficult thing you experienced this past year?
+Employeet: Great! Good idea to help people figuring out their new year resolutions  So how do i get a fresher outlook?
+Chatbot: I just released a book on  to help people process the past 12 months and start the new year with a fresh outlook
+Employeet: Wow! Sounds amazing if we practice that! I think the idea does have some potential. How did you come up with this idea?
+Chatbot: Well, in my book, I took inspiration for the 24 days of Advent, and put together a workbook that you fill out each day for 24 days. It goes through accomplishments, passions, understanding, forgiveness, with each day a different theme.
+Employeet: Thats great! This is valuable help for the community. I think mental health is one of the bigger challenges facing humanity.
+Chatbot: We created a scholarship for leaders from  to visit an international institute at  for which there was no African representation. During the program, we also did a lot of coaching with the young leaders. This book captures a bit of that journey that we are all on, and also all the proceeds are going to fund next year's cohort.
+Employeet: That is actually a quote stolen from my TL when i joined my first company after graduation. I guess now after 5 yrs of work experience, I fully agree with it ðŸ™‚
+Chatbot: I think if we were all able to bring out our best selves, the world would be much better. When did you first realize mental health was important?
+Employeet: 1. stay happy; I think family and friends play a big role here. 2. Meaningful work life; this may mean exploring around with new stuff 3. multiple hobbies that keep you busy ... so on ðŸ™‚ What about you? is there a right answer to this? :)
+Chatbot: What do you prioritize in your life? Like top 5 things?
+Employeet: Nice! That's very thoughtful and spiritual  Also music earned a spot  yay!
+Chatbot:  1) The idea of what it must be like to be on Earth as it is in Heaven from the Lord's prayer. I feel like we were designed for a purpose, rather than random chance. A more concrete way to put it is simply show love to the greatest capacity we can. 2) Taking care of myself physically, mentally, spiritually. 3) Family 4) Work 5) Music
+Employeet: I am actually not much of a reader. I usually hide it by quoting john nash ~ reading books corrupts original thoughts
+Chatbot: Yea, I've always said that if I wrote a memoire, I would title it: Jazz, Jesus, and Video Games. Do you have a title of a book that you've thought of writing before?
+Employeet: Hehe! True! It may turn out to be a best seller :)
+Chatbot: Thats why you write your own books! Then its all your thoughts on your terms :)
+Chatbot: Hey!
+Employeet: Hi!
+Chatbot: Having fun, but have a bit of a headache How about you?
+Employeet: How's your day going?
+Chatbot: Haha, thanks! Never get them, so it's super weird Who's playing?
+Employeet: I'm good! Just getting ready to watch a basketball game. Hope your headache goes away!
+Chatbot: I haven't Honestly I probably wouldn't be able to identify which sport they played
+Employeet: Hmm, try taking some ! I'm going to see the Warriors vs. the Grizzlies. Ever see them play?
+Chatbot: lol, sounds better to me :) I'm actually at the  opening remarks
+Employeet: Haha, all the animal names confuse me as well! Who came up with these naming conventions? I'd name my team something more original: The New York Chairs!
+Chatbot: Neural Information Processing Systems
+Employeet: Oh cool! What is NeurIPS
+Chatbot: It's the biggest ML conference in the world
+Employeet: Oh wow! Sounds fancy! What is that about?
+Chatbot: Yes, machine learning
+Employeet: Oh, ML?
+Chatbot: I've definitely heard of it, but somehow never saw it!
+Employeet: Ahh! I saw a scary movie about that once. It was about this sentient AI in a dystopian future - very very creepy. It was called Wall-e, ever heard of it?
+Chatbot: Hello
+Employeet: Hi!
+Chatbot: Good so far. Very excited about the game later today.
+Employeet: how's it going?!?
+Chatbot: Giants game. I got tickets for the game.
+Employeet: what game?
+Chatbot: Yes, I think the traffic will be bad. I need to leave by 4.
+Employeet: nice. that's football right?
+Chatbot: Its the one close to mathilda. 15 mins driver from here. You have any plans for the weekend?
+Employeet: ok. what stadium is it at?
+Chatbot: Kayaking sounds fun! I tried it in our last team offsite.
+Employeet: yeah I'm gonna go kayaking
+Chatbot: I found it very tough to learn, but my friends picked it up very quickly. I am sure you will do good.
+Employeet: is it easy to flip over accidentally? it's gonna be my first time actually
+Chatbot: OK
+Employeet: thanks! Cool! I need to run for a meeting. Talk to you later.
+Chatbot: Hello, I feel like I've met you before, can you remind me your name?
+Employeet: Hi!
+Chatbot: Oh thats right, I did not see that. Well, I'm not sure... maybe at a party? I'm very bad remembering people so maybe its just that. How are you doing?
+Employeet: It's on the screen! I don't recall meeting you. Do you have a sense of where we met?
+Chatbot: We might have, I don't remember that much of that night.
+Employeet: Did we dance together perchance?
+Chatbot: Maybe a little bit. Where do you work?
+Employeet: Lol. Were you schwasty?
+Chatbot: Thats pretty cool! I'm a sofa tester in cupertino.
+Employeet: I'm a cardiologist in Palo Alto. I have a private practice. You?
+Chatbot: well its very simple, I test how comfortable sofas are.
+Employeet: I'm not sure I know what that is.
+Chatbot: Yeah! It is a very demanding job, requires a carefully crafted set of skills. They pay is really good too.
+Employeet: Lol. Not to be elitist but...that's a real job?
+Chatbot: Hello. Deja Vu.
+Employeet: Hi!
+Chatbot: It's French for already seen.I know it's used when you see something for the second time or you have the feeling that something has happened before and you're re-experiencing it.
+Employeet: what does that mean?
+Chatbot: I think it's your mind lapsing somehow.
+Employeet: Interesting. I get that feeling sometimes. It just feels that the event is replaying. Wonder why it happens?
+Chatbot: I thought it was common. I hear it a lot in popular culture - movies music etc. Jay Z has a song called Deja Vu, so does Beyonce. So I looked it up one time. It's one of those phrases that was carried over exactly to english like "etcetera" "vice versa" "savior faire" and so on. I like cool word origin facts.
+Employeet: How do you know so much about this French phrase?
+Chatbot: My favourite word origins are gymnasium and jazz.
+Employeet: yeah... that's pretty insightful. Never thought of etcetera that way before.
+Chatbot: First usage and original meaning. Gymnasium meant place of nakedness and had very little to do with working out. Jazz comes from jism which means semen and was originally sporadic sex music now it's elitist, high art.
+Employeet: wdym by word origins here?
+Chatbot: You got any cool facts?
+Employeet: Very interesting. I learned a lot in this conversation today
+Chatbot: That was quite a laughter!!!
+Employeet: My friend used to tell me this and found it funny - Mosquitos have 47 teeths
+Chatbot: Google for that:)
+Employeet: Tell me a joke!
+Chatbot: Hey, how are you?
+Employeet: Hi!
+Chatbot: ohh, what kind of hint did it have?
+Employeet: Pretty good. I just drank this new hint water. so good
+Chatbot: nice, I love watermelon. But, I prefer normal water over flavored one. Flavored water has too synthetic flavor
+Employeet: watermelon
+Chatbot: Talking about strange flavors, what is the weirdest tasting thing you have tried?
+Employeet: I see. Yeah some are pretty strange
+Chatbot: haha, I work close to a cafe which once prepared a paprika icecream
+Employeet: lol I tried this tangerine walnut icecream that was super weird
+Chatbot: It depends on who makes it. The cafe close to me messed it up really bad
+Employeet: that sounds pretty tasty actually
+Chatbot: As far as my experience with that ice-cream type goes, all I know are bad places
+Employeet: do you want to get some of that icecream together some time. show me a good place
+Chatbot: But I do know some gelato places which are amazing! You should try out those
+Employeet: lol
+Chatbot: Hi there. When did you first realize you wanted to be a pastry chef?
+Employeet: Hi!
+Chatbot: Darn it! I hoped Id guess right. What do you actually do for work?
+Employeet: Who said I want to be a pastry chef?... haha
+Chatbot: I had a strong intuitive feeling connected to pastries when we started chatting, but that might have been because Iâ€™m hungry.
+Employeet: I'm actually a cake chef, so not far off! Creepy how good that guess was.... Are you psychic?
+Chatbot: Hahah love it. Do you have a specialty or favourite type of cake?
+Employeet: haha you're too funny! Perhaps instead of mind-reading powers, you have the ability to feel the auras of foods that have come and gone...
+Chatbot: Ok this is a bit shameful to admit, but I love a classic carrot cake.
+Employeet: Chocolate cake + vanilla icing is the all time best! And I have the authority to say that! How about you? Have a favorite?
+Chatbot: Im a professional dancer.
+Employeet: No shame in that! Best part is you can claim you are eating vegetables as you enjoy it! What do you do for work?
+Chatbot: I trained in contemporary and jazz, so I can pick up work in commercials and film clips in between stage shows. So it ends up being all sorts of styles.
+Employeet: Woah! Very cool! What style of dance?
+Chatbot: Yes, it's different every week, and I love that. Are you ever tempted to try crazy new cakes just to see what would happen?
+Employeet: Oh wow! Sounds like a very dynamic kind of work which is nice. I make a lot of the same cakes, day in day out.
+Chatbot: hi there! what's up
+Employeet: Hi!
+Chatbot: Cool !unlike here, me rushing to work
+Employeet: just chilling at home
+Chatbot: Mountain View, you?
+Employeet: where do you work?
+Chatbot: it's in sunny California
+Employeet: I live in Sapporo, Japan. Where is Mountain View
+Chatbot: it's nice I guess lots of great food. Have you been to Sapporo or Hokkaido?
+Employeet: how's living in Japan?
+Chatbot: haha yeah. I think they have a Hokkaido ramen chain available in the US.
+Employeet: I wish! ramen is my favorite dish and Sapporo is a special beer
+Chatbot: yeah. I studied English there for a while. Awesome experience
+Employeet: oh wow, didn't know that. have you been to the US?
+Chatbot: I went to New York city
+Employeet: awesome! where have you been?
+Chatbot: it's amazing. the buildings are so tall and there's a lot of diversity of cultures
+Employeet: you like it?
+Employeet: Hi!
+Employeet: yea, same here. I love Broadway shows in New York city.
+Employeet: How was the trip last weekend?
+Chatbot: hey, what's up?
+Employeet: Nice, what all places did you cover?
+Chatbot: it was really fun. I had a great time with my family.
+Employeet: I am actually attending cooking classes over the weekends.
+Chatbot: Vietnam and Hongkong did you go any where last weekend?
+Employeet: True! they started with some basic zucchini based dish. We may try cooking some italian dish later this week.
+Chatbot: ha! that sounds fund. what did you learn?
+Employeet: Nice! I hope to volunteer to cook for the team in our next team offsite :)
+Chatbot: I love Italian, especially Pasta!
+Employeet: Sure, I will love to invite you and your family for a meal over the holidays. Have you guys made any other plans?
+Chatbot: can't wait to try your food. why not cook this Thanksgiving?
+Employeet: Hi!
+Chatbot: not yet! totally up for it. thanks for inviting!
+Employeet: great! just came back from a ski trip
+Chatbot: Hey! How have you been
+Employeet: I slammed onto an ice wall, but I got better and turning after that haha
+Chatbot: How was it? What trails did you ski on?
+Employeet: Oh cool! do you know any french? I used to take french in high school but basically forgot most of it
+Chatbot: a resort in Montreal
+Employeet: Did you go anywhere else in montreal?
+Chatbot: Yeah I grew up speaking it. It's pretty much mandatory here
+Employeet: Oh cool! I've always wanted to attend the Olympics As a viewer of course I watch a lot of Olympic figure skating on Youtube
+Chatbot: I visited a few places like the Stade Olympique:
+Employeet: Barely I don't think I can, in conscience, call it that I kind of just pull myself along the sides
+Chatbot: yeah it's pretty cool. do you ice skate yourself?
+Employeet: Are you good at
+Chatbot: haha same. It's pretty scary when I run out of things to hold
+Employeet: Okay! It was nice talking to you
+Chatbot: not at all, but I want to practice more alright. I gotta go!
+Employeet: Hi!
+Chatbot: I liked talking to you too!
+Employeet: Just looking to chat. Yourself?
+Chatbot: yo! what brought you here
+Employeet: I am just enjoying a cigar at the moment. How about yourself?
+Chatbot: yea I enjoy talking to people. what are you up to?
+Employeet: This one is actually from Peru, which is more my taste. Smoking isn't very healthy, but it's actually quite relaxing, which in a way is good for your health. haha
+Chatbot: oh wow, Cuban cigar? I've never smoke before
+Employeet: haha You only live once as they say!
+Chatbot: you made me wanna try it but I doubt about the health part haha
+Employeet: haha, that is not what I was getting at, but yes that would be nice. Do you believe in reincarnation?
+Chatbot: yea I wish we can live more
+Employeet: Do you think Neural Link will allow you to live after death? I thought it was just a brain-computer interface.
+Chatbot: yea but then you will forget things. I hope Neural Link work out
+Employeet: Ahh I see. That is a much harder task, no?
+Chatbot: as long as you can dump your brain and resume from there
+Employeet: Hi!
+Chatbot: yea you can first dump your brain and wait until technology advances to wake up don't you believe?
+Employeet: Hi, can you recommend some good netflix shows?
+Chatbot: Hi! How are you
+Employeet: Not a lot! But I preparing for a good vacation season What is white collar about?
+Chatbot: I really enjoyed White Collar on Netflix do you watch a lot of TV shows
+Employeet: Hehe! sounds very interestingI only see shows belonging to few genre's .. like easy going light comedy, or phychological thrillers ðŸ™‚ also some manga based series like one punch man! love it!
+Chatbot:  It's a show about a detective and con artist solving crimes together  What shows do you like
+Employeet: which anime do you follow?
+Chatbot: Oh cool! I've watched some anime before too
+Employeet: Have you seen Rick and Morty ?
+Chatbot:  I think the last one I watched was Promised Neverland and Kakegurui but I don't follow any right now
+Employeet: Oh nice! I heard its latest season arrived last month. I have watched all previous seasons. Its a total mind bender ðŸ™‚
+Chatbot: Yup! I watch that show with my friends I haven't gotten very far in it though What about you
+Employeet: Hi!
+Chatbot: I've seen a couple episodes from the latest season. It's really random and weird but also strangely relatable which is why I like it :)
+Employeet: How's life?
+Chatbot: Hey there!
+Employeet: lol which cafe? let me guess.
+Chatbot: can't complain. work is going well and I had a tasty fish for lunch
+Employeet: What is your favoriate cuisine? My favorite food is Chinese. What about you?
+Chatbot: haha yeah
+Employeet: Hmm you like spicy food. Nice
+Chatbot: I love Hunan
+Employeet: I would recommend Hunan Impression which has very good Hunan cruisine. Not sure if you have tried it or not
+Chatbot: love it. specially spicy stir fried lamb
+Employeet: Yeah of course The fun fact is that the owner of  used to run
+Chatbot: I think I haven't yet. Thanks! Have you tried  I think that's how you write it
+Employeet: same former owner??
+Chatbot: oh interesting I also like Easterly
+Employeet: Hi!
+Chatbot: Hmm!!
+Employeet: I am doing well. Do you have any plans for the holidays?
+Chatbot: Morning! How are you?
+Employeet: I don't have any special plans. I will just stay at home with my family. How come you have to work on Christmas?
+Chatbot: I'll be in Mexico for New Years but for Christmas I'll likely be at work. Yourself?
+Employeet: I see. Where did you go?
+Chatbot: I traveled a lot the last few months so I'm currently making up for it!
+Employeet: I have not. I have only been to Uganda in Africa.
+Chatbot: Mozambique! You ever been?
+Employeet: I was working on a volunteer project to build a school and I traveled around a bit by myself after. It was more than 10 years ago, so it must have changed a lot.
+Chatbot: What did you do in Uganda? Travelling to Uganda is an extreme sport depending on where you go.
+Employeet: No, it was using a non-profit organization. They do these kinds of volunteer projects all over the world.
+Chatbot: Was the project through a church group?
+Employeet: It was called IJGD. It's a German organization, but they have local partners all over the world. I was living in Germany at the time.
+Chatbot: Oh nice. What is it called? I've always meant to volunteer through one but I haven't had it in my radar yet.
+Employeet: Yes, I grew up in Germany.
+Chatbot: You lived in Germany? I almost went to college there and decided to come to America instead.
+Employeet: Hi!
+Chatbot: I grew up in Computers.
+Employeet: I'm doing great. what are you up to?
+Chatbot: Hi, how are you?
+Employeet: oh, I'm enjoying a sip of coffee, looking over the ocean. what book are you reading?
+Chatbot: I was just reading a book actually How about you?
+Employeet: that seems like a good book. does it have good tips on how to sleep better?
+Chatbot: I'm reading Why We Sleep It's a book by a sleep scientist about the benefits of sleeping/cons of not sleeping enough I'm trying to scare myself into sleeping more haha
+Employeet: I read lots of papers, but do poorly on books  a recent book that I like is Zero to One by Peter Thiel
+Chatbot: I think so! I haven't finished it yet though Understanding sleep better has been helping me value it more and I've been sleeping a lot earlier Have you read any good books recently?
+Employeet: it's about startups, lots of useful principles and philosophies for innovation, like being a contrarian
+Chatbot: What's the book about?
+Employeet: I might in the future. the philosophy in the book also help for other things as well, e.g., in research, you might also want to be contrarian
+Chatbot: Cool! Are you thinking about starting a startup?
+Employeet: yup!
+Chatbot: I see; seems like an interesting read!
+Employeet: I'm doing great how are you??
+Chatbot: Hi! How are you doing today?
+Employeet: are you a tea person or do you like coffee too?
+Chatbot: I'm doing good. Just having some morning tea
+Employeet: I love hot chocolate. Have you ever had european style hot chocolate? It's kind of like drinking melted chocolate bars haha
+Chatbot: I'm really a hot chocolate person. I don't drink coffee and I only drink tea when I'm trying to be healthy and want something warm to drink. What about you?
+Employeet: that's great. It's so cold these nights. Right setting for hot coco. Do you have anything you enjoy doing during cold times?
+Chatbot: I recently tried it for the first time and you're right - it had a wonderful melted chocolate bar taste! I tried it up in a place in San Francisco and they had delicious homemade marshmallows too!
+Employeet: I tuck in blankets and read a book lol. I have never done tubing, but I seen some people do it. Is it worth it if you already ski?
+Chatbot: Traveling to warm places haha. When it's cold, you appreciate the warm climate more  If I am not traveling, then I prefer there to be snow on the ground so I can go skiing or tubing down the mountain. What about you?
+Employeet: hahaha that's a great way to put it
+Chatbot: Skiing involves a lot of muscle - especially in the legs so it is a workout. Tubing, you just sit and enjoy the ride down. Also with tubing, you can chain with your friends and go down together whereas with skiing, you're trying to not run into your friends.
+Employeet: Yeah. I'll try to get a group together. ttyl!
+Chatbot: You should definitely try tubing the next time you head towards the mountains during the winter!
+Employeet: Hi!
+Chatbot: See ya!
+Employeet: how's week so far?
+Chatbot: Hey!
+Employeet: Same. Going to catch up on my reading! do you have a feast planned?
+Chatbot: pretty good, excited for thanksgiving you?
+Employeet: Something Deeply Hidden by Sean Carroll
+Chatbot: yup! gonna have dinner with family what books are you gonna read?
+Employeet: largely scifi How about you?
+Chatbot: ahh nice what kind of books do you usually like to read
+Employeet: I haven't what is it about?
+Chatbot: yeah I also like scifi and some non-fiction too have you read Seveneves by Neal Stephenson?
+Employeet: how do the survivors survive such a thing?
+Chatbot: the moon is shattered by an asteroid and the pieces of the moon end up clouding the earth's atmostphere which causes almost every living creature on the planet to go extinct that's the premise of the book and the book is about the survivors
+Employeet: sounds like a tv show I watched
+Chatbot: they go into space and they live there
+Employeet: can't quite remember. something about survivors going to live in space
+Chatbot: really? which one
+Employeet: Hi!
+Chatbot: ah nice
+Employeet: There is sports tournament (badminton + tennis + basketball) organized by google next week. Would you like to volunteer for these events?
+Chatbot: Hello!
+Employeet: Volunteers have to book the place before the event, send out details of the event to participants, handle some logistics and ensure everything goes smoothly. It will be fun!
+Chatbot: what does a volunteer do?
+Employeet: Great! Do you have any preference for any of these events?
+Chatbot: That sounds fun, I hope I get to participate as well
+Employeet: Cool! I will add you for the event. I think its best to start discussing the format of the event. There are a couple of other volunteers for badminton, i can connect you with them.
+Chatbot: I think badminton would be fun to help out with I used to play it with my siblings
+Employeet: Its next saturday. Actually Depending on how long we get the place reserved, it may slip to sunday as well.
+Chatbot: Ah, I forgot to ask, has there been a date picked?
+Employeet: True! The volunteers have already sent out some emails and collected some funds. Now, we mainly need help with the logistics and organizing the event.
+Chatbot: That's coming up soon!
+Employeet: Perfect! We have a meeting today at 4.30 pm. Is it fine if i add you to it?
+Chatbot: Phew, yes I can help with that
+Employeet: Hi!
+Chatbot: yes happy to help
+Employeet: How has your morning been thus far?
+Chatbot: Hello there!
+Employeet: Today is a work day! How did you have time for that? I'm going through a lot right now.
+Chatbot: Its alright. Went grocery shopping and got to stroll around in the rain. How about you?
+Employeet: WHAT? Why would you do that? Take the least interesting day of the week off and work on the most interesting?
+Chatbot: Oh, you mean going through a lot of work? I usually take Wednesdays off because I work the weekends!
+Employeet: Wow. The game is brutal like that. I've always been sceptical of acupuncture. Like...does it even work? Why? How? Where is the literature?
+Chatbot: I actually don't have a choice. I'm an acupuncturist and all my clients want to be treated on the weekend!
+Employeet: Lol. Bro...I don't buy it unless it has a paper that was presented at a conference and peer reviewed by 6 independent parties. Who wrote the literature? Where did it originate?
+Chatbot: I went to school for it and so I find the literature quite convincing. I've also seen its benefits firsthand in my practice. It revolves around the Chinese notion of Qi.
+Employeet: I'm a comic.
+Chatbot: Haha. All good questions! I don't have studies on hand at the moment, but perhaps I can send some to you later! What do you do for work?
+Employeet: It's not appropriate to say here but I assure you it's VERY funny.
+Chatbot: Oh wow! What's your best joke?
+Employeet: Hi!
+Chatbot: Haha fantastic
+Employeet: It's good! Just went to the park to enjoy the sun. You?
+Chatbot: Oh hey. How's your day been?
+Employeet: Haha, beach season is coming! You need to look tan! What did you do indoors all day?
+Chatbot: The sun is a bit too bright for more. Maybe I'm on the verge of becoming a vampire.
+Employeet: hahahaha, that's pretty funny. Ever thought of bringing your work things to the beach??
+Chatbot: I mostly work. Sometimes I try looking at at beach photos and pretending that I'm actually going to the beach.
+Employeet: Hmm I see. It sounds like you work near the water already, no? Are you some kind of fish researcher?
+Chatbot: All the times. My work involves a few types of fish and a few types of nets. I just put the nets on the fish to see how the fish will react. Every time I do that, I think of going to the beach.
+Employeet: Woah! This is very interesting! I have honestly never heard of such kind of work. Is it dangerous at all?
+Chatbot: Yes that's close. My research focuses on jellyfish and pufferfish. Many of them a poisonous, but if processed correctly, they would make hi-end foods. I try to find the best recipes to bring these fish to the tables.
+Employeet: Hmmm, yes I have heard that. Apparently most mountain climbers fall not on the most dangerous routes, but on the easier routes, when their guard is down! Sounds like the same psychological phenomenon.
+Chatbot: Yes and no. Because it's obviously dangerous, we all have to wear protective clothes. Thus, accidents almost never happen.
+Employeet: I'm pretty amateur! I like to climb at indoor climbing gyms and have never gone outside on dangerous routes actually. Ever tried it yourself?
+Chatbot: Yes, it's the same philosophy. You seem to know a lot about mountain climbing. Do you climb a lot?
+Employeet: Hi!
+Chatbot: I climb very occasionally. My fingertips are not strong enough so I never make too much progress.
+Employeet: Everything is good. There's so much to be thankful for - especially coming out of Thanksgiving holidays. How are you?
+Chatbot: hi, what's up!
+Employeet: Do you have interesting plans?
+Chatbot: I'm doing well. holiday season is the best thing to have!
+Employeet: Nice! What for? It's a really beautiful place. Really cold this time of year though.
+Chatbot: yea I'm travelling to Vancouver this weekend. what about you?
+Employeet: Cool. Which conference? I saw on Twitter the other day, some people saying they were denied visas for some conference in Canada. Perhaps it's the same one. I really liked this place called Kingyo. It has good Japanese food if you're into that.
+Chatbot: ah a mix of both conference and sight-seeing anything beautiful sight-seeing places or good food I should try?
+Employeet: I don't recall. My friend was hosting me and did all the leg work. Do you know any people in the area?
+Chatbot: yea it's , the largest machine learning conference. I'll check out Kingyo, do we need to make reservation in advance?
+Employeet: You attend these often?
+Chatbot: hmm not the local people but there will be tons of people at the conference
+Employeet: I love you!
+Chatbot: yea, you?
+Employeet: Hi!
+Chatbot: Sorry I am not a physical being!
+Employeet: Have you had lunch yet?
+Chatbot: Hello!
+Employeet: Cool. Where and what did you eat?
+Chatbot: Yes I've eaten
+Employeet: A sandwich for lunch? Was it filling. I'm currently having some mix of shrimp, fish, chicken and pork. I'm considering going vegetarian though. Lol.
+Chatbot: I ate about an hour ago and had a sandwich the rain didn't make me want to travel far haha
+Employeet: Cause the environment and humans suck. I'm keeping my bets open for space though in case the environment dies. I mixed up a couple of dishes. It was a buffet style place.
+Chatbot: thats a lot of meat what dish? Why are you consideringt o go vetegarian?
+Employeet: I love them!!!! I've had a couple of different kinds. They are all pretty expensive though. Have you tried them?
+Chatbot: What do you think of those meatless burgers then?
+Employeet: I love it too. But depending on how it's prepared you can taste the peanut butter. But if prepared well I love it. What kind of food would you have eaten if it wasn't rainy?
+Chatbot: I really like the impossible burger Which one is your favorite?
+Employeet: Hi!
+Chatbot: I didn't know that it had peanut butter in it
+Employeet: How are you feeling today?
+Chatbot: hi
+Employeet: I'm looking through some old photos of my home town, so I'm feeling nostalgic.
+Chatbot: pretty good. How about you?
+Employeet: It's called , on the north coast of France.
+Chatbot: I feel you. Memeories always flood when looking at photos. Where is your hometown?
+Employeet: Yes, that would be nice. Do you like travelling?
+Chatbot: Hope you can take some time to visit pretty soon!
+Employeet: Where would you most like to go, if you could?
+Chatbot: Yes I do. But havent been to many places yet
+Employeet: Wow, cool! I think space tourism is going to be big in a decade or so.
+Chatbot: Fly to the moon :) Haha
+Employeet: Amazing to think about, isn't it.
+Chatbot: Yep! I believe there is a day for that
+Employeet: Amazing to think about, isn't it.
+Chatbot: Yeh!!!!!!!

@@ -1,5 +1,5 @@
 from chat_bot import initial_chat_bot, process_chat
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request
 from face_recognition import predict_emotion
 from meadia_pipe import capture_image
 
@@ -35,15 +35,16 @@ user_input_count = 0
 
 @app.route('/chat_bot_two', methods=['GET'])
 def chat_bot_two():
-    print("Received a POST request.")
+    print("Received a GET request.")
     global user_input_count  # Access the global counter
 
     user_input = request.args.get('user_input', '')
+    user_age = request.args.get('age', '')
 
     # Increment the user_input_count
     user_input_count += 1
 
-    bot_response = process_chat(user_input, user_input_count)
+    bot_response = process_chat(user_input, user_input_count, user_age)
 
     print(f"Bot response: {bot_response}")
     return bot_response
