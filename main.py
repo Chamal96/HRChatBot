@@ -1,7 +1,9 @@
 from chat_bot import initial_chat_bot, process_chat
 from flask import Flask, render_template, request
 from face_recognition import predict_emotion
+from game_question import stress_by_questions
 from meadia_pipe import capture_image
+from models.chatterbot_ import chat_bot
 
 app = Flask(__name__)
 
@@ -44,10 +46,27 @@ def chat_bot_two():
     # Increment the user_input_count
     user_input_count += 1
 
+    # bot_response = chat_bot(user_age, user_input)
     bot_response = process_chat(user_input, user_input_count, user_age)
 
     print(f"Bot response: {bot_response}")
     return bot_response
+
+@app.route('/after_question', methods=['GET'])
+def after_question():
+    print("Received a GET request.")
+    # global user_input_count  # Access the global counter
+
+    user_input = int(request.args.get('score', ''))
+    # user_age = request.args.get('age', '')
+
+    # Increment the user_input_count
+    # user_input_count += 1
+    activity = stress_by_questions(user_input)
+    # bot_response = process_chat(user_input, user_input_count, user_age)
+
+    print(f"Bot response: {activity}")
+    return activity
 
 
 if __name__ == '__main__':

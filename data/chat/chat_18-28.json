@@ -1,0 +1,458 @@
+{
+  "intents": [
+    {
+      "intent": "Greeting",
+      "text": [
+        "Hi",
+        "Hi there",
+        "Hola",
+        "Hello",
+        "Hello there",
+        "Hya there"
+      ],
+      "responses": [
+        "Hi dr How's it going? I'm here to chat and listen if you'd like to share anything about your job or anything else on your mind.",
+        "Hello , please tell me your feelings ?",
+        "Good to see you! How's everything going with you?",
+        "Hey there! How's your day going?",
+        "Hey! It's been pretty good, thanks for asking. How about you?",
+        "Hey, long time no chat! What have you been up to lately?",
+        "Hello! How's your day going? Any plans for the rest of the week?"
+      ],
+      "extension":  {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context":  {
+        "in": "",
+        "out": "GreetingUserRequest",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "CourtesyGreeting",
+      "text": [
+        "fine thanks",
+        "This is Adam",
+        "Everything going well",
+        "How are you?",
+        "Hi how are you?",
+        "Hello how are you?",
+        "Hola how are you?",
+        "How are you doing?",
+        "Hope you are doing well?",
+        "Hello hope you are doing well?"
+      ],
+      "responses": [
+        "Hello, I am great, how are you? What have you been up to lately? can we chat little bit?",
+        "Hello, how are you? I am great thanks! Can we talk together?",
+        "Hello, I am good thank you, how are you? Can we talk together?",
+        "Hi, I am great, how are you? Can we talk together?",
+        "Hi, how are you? I am great thanks! Can we talk together?",
+        "That's good to hear! Can we talk together?"
+      ],
+      "extension":  {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context":  {
+        "in": "",
+        "out": "CourtesyGreetingUserRequest",
+        "clear": true
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "Work Conditions",
+      "text": [
+        "safety measures we have in place here",
+        "unsafety working environment here",
+        "concerns about the cleanliness or general environment of our workplace",
+        "safety equipment or measures you think we should improve"
+      ],
+      "responses": [
+        "Ensuring your safety remains our utmost concern. We're actively enhancing our safety protocols. However, we're also interested in your feedback regarding Pay and Benefits.",
+        "We're committed to upholding a hygienic and secure workplace. Should you have any concerns regarding Pay and Benefits, please don't hesitate to inform us.",
+        "We highly value your input on safety gear and procedures. Feel free to share any suggestions you may have. Additionally, we're open to discussing Pay and Benefits."
+      ]
+    },
+    {
+      "intent": "Pay and Benefits",
+      "text": [
+        "I need to talk current salary and benefits package?",
+        "I need money",
+        "I'm putting in a lot of effort, but the compensation doesn't always match up.",
+        "I want to bye a house, car",
+        "I need to pay rent of my house",
+        "Money's always on my mind, especially with bills and all. And I've been thinking about getting a car soon, but it's tough to save up.",
+        "Regarding Pay and Benefits, I believe transparency and fairness are essential. Perhaps establishing clear guidelines for pay raises and benefits packages, ",
+        "along with regular reviews, could enhance satisfaction and morale. Additionally, providing opportunities for professional development and flexible benefits could further support employee well-being and retention."
+      ],
+      "responses": [
+        "Are you content with your current salary and benefits package? Additionally, what are your thoughts on Management and Supervision?",
+        "Do you believe your compensation accurately reflects your contributions to the company? Furthermore, what are your considerations regarding Management and Supervision?",
+        "Are there any additional benefits or perks you believe we should consider offering? Moreover, what are your insights regarding Management and Supervision?",
+        "Feeling valued for your efforts is crucial. Have you had the opportunity to discuss your concerns with your employer? Furthermore, what are your reflections on Management and Supervision?",
+        "We appreciate your contributions. Is there anything specific you'd like to address regarding your compensation? Additionally, what are your perspectives on Management and Supervision?",
+        "Your feedback on salary and benefits aids us in ensuring fairness. Please feel free to express any concerns you have. Furthermore, what are your thoughts on Management and Supervision?",
+        "Managing finances and planning for significant purchases can be daunting. What are your considerations regarding Management and Supervision?",
+        "We're continually seeking ways to enhance employee benefits. Please suggest any perks you'd like to see implemented. Furthermore, what are your reflections on Management and Supervision?"
+      ]
+    },
+    {
+      "intent": "Management and Supervision",
+      "text": [
+        "I feel not the support and guidance receive from your manager, supervisors, others",
+        "Do you feel like you have clear expectations and directions from your supervisors?",
+        "Issues regarding favoritism or unfair treatment noticed",
+        "Regarding Management and Supervision, effective communication and leadership are pivotal.",
+        "Encouraging regular feedback sessions and establishing clear goals could improve the overall work environment.",
+        "As for compensation, fair and competitive pay along with opportunities for advancement are crucial aspects to consider.",
+        "Additionally, implementing perks such as professional development opportunities or wellness programs could further support employee satisfaction and retention.",
+        "I dont have any support"
+      ],
+      "responses": [
+        "How do you perceive the support and guidance provided by your manager? Additionally, what are your thoughts on professional development opportunities?",
+        "Do you believe you have clear expectations and guidance from your supervisors? Furthermore, what are your considerations regarding professional development opportunities?",
+        "Have you noticed any instances of favoritism or unfair treatment? Furthermore, what are your reflections on professional development opportunities?",
+        "Receiving support is crucial. Is there anything specific you'd like to address in this regard? Additionally, what are your thoughts on professional development opportunities?",
+        "Maintaining clear communication with supervisors is pivotal. Should you have any concerns, please inform us. Moreover, what are your insights on professional development opportunities?",
+        "We prioritize fairness and transparency. Please share any instances of favoritism or unfair treatment you've observed. Furthermore, what are your thoughts on professional development opportunities?"
+    ]
+        },
+    {
+      "intent": "Job Roles and Career Development",
+      "text": [
+          "As for professional development opportunities, I believe they are essential for personal growth and career advancement.,",
+        "Providing access to training programs, mentorship opportunities, and career planning resources could greatly benefit employees." ,
+        "Additionally, ensuring clear expectations and guidance from supervisors is crucial for success. Open communication channels and setting achievable goals can help in this regard. ",
+        "Regarding fairness and transparency, addressing any instances of favoritism or unfair treatment is vital for maintaining a positive work culture. Implementing processes for reporting and addressing such issues promptly is essential."
+      ],
+      "responses": [
+        "Ensuring clarity in your role is paramount for optimal performance. If you require further clarification on your responsibilities, please don't hesitate to ask. Additionally, how do you perceive the balance between work and personal life here?",
+        "I understand the complexity of balancing career aspirations and personal life. Regarding your current salary and benefits package, and the balance between work and personal life here, what are your thoughts?",
+        "We place a high value on continuous learning and development. If you have any training needs, feel free to discuss them. Also, how do you feel about the balance between work and personal life in this environment?",
+        "Setting ambitious goals is commendable! What steps do you believe are necessary to accomplish them? Additionally, how do you perceive the balance between work and personal life here?",
+        "Maintaining a healthy work-life balance is essential. If you're feeling overwhelmed, please share so we can work together to find solutions. Additionally, how do you feel about the balance between work and personal life here?"
+      ]
+    },
+    {
+      "intent": "Work-Life Balance",
+      "text": [
+            "emphasizing the importance of role clarity and work-life balance. Clear communication regarding responsibilities is indeed crucial for optimal performance.",
+        "Regarding the balance between work and personal life, I appreciate the flexibility and support provided here.",
+        "However, I believe there could be further opportunities for remote work or flexible scheduling to accommodate personal commitments and promote overall well-being.",
+        "Regarding salary and benefits, I believe they play a significant role in achieving a healthy work-life balance. Ensuring fair compensation and benefits packages can alleviate financial stress and support employees in maintaining a fulfilling personal life outside of work.",
+        "In terms of continuous learning and development, I value the opportunities provided for training and skill enhancement. However, I believe more tailored programs or resources that align with individual career goals could further enhance professional growth while maintaining a balanced lifestyle.",
+        "As for setting ambitious goals, I believe clear communication and alignment with personal values are essential.",
+        "Encouraging a supportive and collaborative work environment can facilitate goal achievement while ensuring a healthy balance between work and personal life."
+      ],
+      "responses": [
+        "Maintaining a healthy work-life balance contributes to overall well-being. If you have any suggestions for improvement in this area, please share. Additionally, what are your thoughts on Interpersonal Relations?",
+        "We're dedicated to aiding your work-life balance. Please inform us of any ways we can assist you. Additionally, what are your considerations regarding Interpersonal Relations?",
+        "Recognizing the importance of personal time is crucial. What are some of your aspirations or objectives, both professionally and personally? Furthermore, what are your reflections on Interpersonal Relations?",
+        "Your personal time is valuable. If you require any assistance to achieve a better balance, please don't hesitate to let us know. Additionally, what are your thoughts on Interpersonal Relations?"
+      ]
+    },
+    {
+      "intent": "Interpersonal Relations",
+      "text": [
+        "In terms of improvement, I believe fostering a culture that values time off and respects boundaries could contribute to better balance. ",
+        "Additionally, promoting flexible scheduling options and encouraging employees to prioritize self-care could further enhance well-being.",
+        "Regarding Interpersonal Relations, I believe effective communication and mutual respect are fundamental. Cultivating a positive work environment where everyone feels heard and valued fosters stronger interpersonal connections and enhances teamwork. Encouraging team-building activities and open dialogue can also strengthen relationships among colleagues.",
+        "As for aspirations and objectives, both professionally and personally, I strive for continuous growth and fulfillment in my career while also prioritizing personal development and meaningful relationships outside of work. Balancing these aspects of life contributes to overall happiness and satisfaction."
+      ],
+      "responses": [
+        "Positive relationships are essential for fostering a healthy work environment. If you're facing any challenges in this regard, please feel free to share. Additionally, what are your considerations regarding Company Policies and Ethics?",
+        "Maintaining open communication is vital for building a strong team. If you have any suggestions for improvement in this area, please let us know. Moreover, what are your reflections on Company Policies and Ethics?",
+        "Addressing conflicts is crucial for promoting team cohesion. If there are any issues that need resolution, please bring them to our attention so we can address them promptly. Furthermore, what are your thoughts on Company Policies and Ethics?"
+      ]
+    },
+    {
+      "intent": "Company Policies and Ethics",
+      "text": [
+        "emphasizing the importance of positive relationships and open communication within the workplace.",
+        "I believe fostering an environment where employees feel comfortable addressing challenges and conflicts openly is crucial for building a strong team.",
+        "If there are any issues in this regard, I appreciate the opportunity to address them constructively.",
+        "Regarding Company Policies and Ethics, clear and transparent policies are essential for maintaining trust and integrity within the organization.",
+        "Ensuring that company policies align with ethical standards and values promotes a culture of fairness and accountability.",
+        "Moreover, providing regular training and updates on policies can help ensure that all employees are aware of their responsibilities and rights within the organization.",
+        "If there are any areas for improvement or clarification in company policies, I welcome the opportunity to discuss them further."
+      ],
+      "responses": [
+        "We strive for transparency and equity in our policies. Should you identify any policies in need of clarification or revision, please inform us. Additionally, how do you perceive our approach to handling Retaliation?",
+        "Maintaining ethical standards is paramount to our company's values. If you have any concerns regarding ethical conduct, please don't hesitate to report them. Moreover, what are your thoughts on our approach to addressing Retaliation?",
+        "We treat allegations of unethical behavior with utmost seriousness. To facilitate investigation, please provide detailed information regarding any concerns you may have. Furthermore, how do you feel about our strategies for addressing Retaliation?"
+      ]
+    },
+    {
+      "intent": "Retaliation",
+      "text": [
+        "commitment to ensuring clarity and fairness. Regarding our approach to handling Retaliation,",
+        "I believe it's important to have clear procedures in place to address any instances promptly and impartially.",
+        "Encouraging open communication and providing support to employees who report concerns is crucial in fostering a safe and respectful work environment.",
+        "In terms of maintaining ethical standards, I commend the company's commitment to upholding integrity. ",
+        "Encouraging employees to report any concerns regarding ethical conduct demonstrates a proactive approach to addressing potential issues.",
+        "Regarding our approach to addressing Retaliation, it's essential to have robust mechanisms in place to protect employees who come forward with complaints and to investigate allegations thoroughly.",
+        "Overall, I believe that promoting transparency, accountability, and a zero-tolerance policy towards retaliation are vital components of maintaining a positive workplace culture aligned with ethical principles."
+      ],
+      "responses": [
+        "We strictly prohibit retaliation in any form. Your feedback is invaluable, and we promote open communication. Additionally, do you have any suggestions for resources or technologies that could enhance your work performance?",
+        "We are dedicated to addressing employee feedback positively and without fear of reprisal. Please feel free to express any concerns you may have. Moreover, are there any specific resources or technologies you believe would contribute to improving your work performance?"      ]
+    },
+    {
+      "intent": "Inadequate Resources",
+      "text": [
+          "In terms of enhancing work performance, I believe implementing tools such as project management software for better organization,",
+        "training programs to enhance skills, and perhaps investing in ergonomic office equipment for physical well-being could greatly contribute to our productivity."
+      ],
+      "responses": [
+        "Your productivity is important to us. Are there any resources or technologies you think would help improve your work performance?",
+        "Your productivity is important to us. Let us know if you need any additional tools or resources.",
+        "We're always looking for ways to support your work performance. Please share any suggestions you have for resources or technologies."
+      ]
+    },
+    {
+      "intent": "Disappointment",
+      "text": [
+        "very frustrated",
+        "anxious",
+        "kill you.",
+        "scared",
+        "awful",
+        "stressed",
+        "hate",
+        "worthless.",
+        "useless",
+        "depressed",
+        "sad",
+        "die.",
+        "feeling lonely"
+      ],
+      "responses": [
+        "I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?\n or You have the opportunity to report your problem to higher officials through this App.(Click Here)"
+      ]
+    },
+    {
+      "intent": "Swearing",
+      "text": [
+        "fuck off",
+        "fuck",
+        "twat",
+        "shit"
+      ],
+      "responses": [
+        "Please do not swear",
+        "How rude",
+        "That is not very nice"
+      ],
+      "extension":  {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context":  {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "NameQuery",
+      "text": [
+        "What is your name?",
+        "What could I call you?",
+        "What can I call you?",
+        "What do your friends call you?",
+        "Who are you?",
+        "Tell me your name?"
+      ],
+      "responses": [
+        "You can call me Aurora",
+        "You may call me Aurora",
+        "Call me Aurora"
+      ],
+      "extension":  {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context":  {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "Thanks",
+      "text": [
+        "OK thank you",
+        "OK thanks",
+        "OK",
+        "Thanks",
+        "Thank you",
+        "That's helpful"
+      ],
+      "responses": [
+        "No problem!",
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ],
+      "extension":  {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context":  {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "Happy",
+      "text": [
+        "feel great today.",
+        "happy",
+        "cheerful"
+      ],
+      "responses": [
+        "That's geat to hear. I'm glad you're feeling this way.",
+        "Oh i see. That's great."
+      ],
+      "extension":  {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context":  {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "GoodBye",
+      "text": [
+        "Bye",
+        "Adios",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ],
+      "extension":  {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context":  {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entityType": "NA",
+      "entities": []
+    },
+    {
+      "intent": "UnderstandQuery",
+      "text": [
+        "Do you understand what I am saying",
+        "Do you understand me",
+        "Do you know what I am saying",
+        "Do you get me",
+        "Comprendo",
+        "Know what I mean"
+      ],
+      "responses": [
+        "Well I would not be a very clever AI if I did not would I?"
+      ],
+      "extension":  {
+        "function": "",
+        "entities": false,
+        "responses": []
+      },
+      "context":  {
+        "in": "",
+        "out": "",
+        "clear": false
+      },
+      "entities": []
+    },
+    {
+      "intent": "Clarification",
+      "text": [
+        "I'm not sure I understand.",
+        "Could you explain that again?"
+      ],
+      "responses": [
+        "Sure, let me clarify that for you.",
+        "Of course! Let me explain it in a different way."
+      ]
+    },
+    {
+      "intent": "Appreciation",
+      "text": [
+        "Thank you for your help.",
+        "I appreciate your assistance."
+      ],
+      "responses": [
+        "You're welcome! I'm here to help whenever you need it.",
+        "I'm glad I could assist you. Feel free to ask if you have any more questions."
+      ]
+    },
+    {
+      "intent": "Feedback",
+      "text": [
+        "I have some feedback.",
+        "I'd like to share my thoughts."
+      ],
+      "responses": [
+        "Your feedback is valuable to us. Please go ahead.",
+        "We're always eager to hear your feedback. Please share your thoughts with us."
+      ]
+    },
+    {
+      "intent": "Apology",
+      "text": [
+        "I'm sorry for the confusion.",
+        "My apologies for any inconvenience."
+      ],
+      "responses": [
+        "No problem at all. Let's continue our conversation.",
+        "Apology accepted. Let's move forward."
+      ]
+    },
+    {
+      "intent": "Personal Information",
+      "text": [
+        "Can you tell me more about yourself?",
+        "What are your capabilities?"
+      ],
+      "responses": [
+        "I'm an Aurora ,AI chatbot designed to assist you with HR topics."
+      ]
+    }
+  ]
+}
+
+
+
+

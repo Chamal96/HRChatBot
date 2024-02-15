@@ -1,4 +1,11 @@
-standard
-slant
-block
-bubble
+grievant_employee = [
+"I feel like my contributions are not valued."
+"I'm overwhelmed by my workload and unable to maintain a healthy work-life balance."
+"I believe I'm being treated unfairly compared to my colleagues."
+"I'm experiencing harassment or discrimination in the workplace."
+"I'm frustrated with the lack of communication and transparency from management."
+"I'm concerned about the unsafe working conditions."
+"I feel like I'm not being provided with the necessary resources or support to perform my job effectively."
+"I'm worried about the lack of opportunities for career advancement."
+"I'm feeling demoralized and disengaged due to the organizational culture."
+"I'm considering leaving the company because of these ongoing issues."]

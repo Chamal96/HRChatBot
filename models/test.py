@@ -1,32 +1,30 @@
+def calculate_stress(cumulative_score):
+    pos = cumulative_score["pos"]
+    neg = cumulative_score["neg"]
+    neu = cumulative_score["neu"]
+    print(pos)
+    print(neu)
+    print(neg)
 
-# # Read the contents of the file
-# with open('../data/hrchat.txt', 'r') as file:
-#     lines = file.readlines()
-#
-# # Reverse the order of lines where the employee speaks with the chatbot
-# for i in range(0, len(lines), 2):
-#     lines[i], lines[i+1] = lines[i+1], lines[i]
-#
-# # Write the modified lines back to the file
-# with open('../data/flipped_file.txt', 'w') as file:
-#     file.writelines(lines)
+    # # You can customize this function based on your specific requirements
+    # if neg > 0.6:  # Adjust the threshold as needed
+    #     stress_level = "High"
+    # elif neg > 0.3:
+    #     stress_level = "Moderate"
+    # else:
+    #     stress_level = "Low"
 
+    return stress_level
 
+# Initialize cumulative sentiment scores as a dictionary
+cumulative_scores = {
+    'pos': 0.0,
+    'neg': 0.0,
+    'neu': 0.0
+}
+# Update cumulative sentiment scores
+cumulative_scores['neg'] += 0.5
 
-# Read the contents of the file
-with open('../other/hrchat.txt', 'r') as file:
-    lines = file.readlines()
-
-# Remove the words "Chatbot" and "Employee" from each line
-for i in range(len(lines)):
-    lines[i] = lines[i].replace('Chatbot:', '').replace('Employee:', '')
-
-# Combine the lines with a tab space between them
-combined_lines = []
-for i in range(0, len(lines), 2):
-    combined_lines.append(lines[i].strip() + '\t' + lines[i+1].strip())
-
-# Write the combined lines back to the file
-with open('../data/chat/combined_file.txt', 'w') as file:
-    file.write('\n'.join(combined_lines))
-
+# Calculate stress level
+stress_level = calculate_stress(cumulative_scores)
+print("Stress Level:", stress_level)

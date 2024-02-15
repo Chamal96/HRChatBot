@@ -30,7 +30,7 @@ label_to_text = {0: 'Surprise', 1: 'Fear', 2: 'Angry', 3: 'Neutral', 4: 'Sad', 5
 
 def predict_emotion(captured_image):
     # Load your trained model (replace 'YourModel.h5' with your actual model file)
-    model = load_model('my_model.h5')
+    model = load_model('models/my_model.h5')
 
     # Preprocess the image for prediction
     image = preprocess_image_for_mobilenet_v2(
