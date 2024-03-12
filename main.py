@@ -4,6 +4,9 @@ from face_recognition import predict_emotion
 from game_question import stress_by_questions
 from meadia_pipe import capture_image
 from models.chatterbot_ import chat_bot
+import base64
+import io
+from PIL import Image
 
 app = Flask(__name__)
 
@@ -15,20 +18,41 @@ def index():
 
 @app.route('/chat_bot_one', methods=['POST'])
 def chat_bot_one():
-    print("Received a POST request.")
+    try:
+        print("Received a POST request.")
+        # # Get the JSON body from the request
+        json_data = request.json
+        print(json_data["image"])
+        base64_image = json_data["image"]
 
-    # Capture an image
-    captured_image = capture_image()
-    print("Image captured.")
+        # Decode base64 string into bytes
+        # image_bytes = base64.b64decode(base64_image)
 
-    # Predict emotion
-    predicted_label = predict_emotion(captured_image)
-    print(f"Predicted label: {predicted_label}")
+        # # Open bytes as an image
+        # captured_image = Image.open(io.BytesIO(image_bytes))
+        # # Convert the image to RGB mode if it has an alpha channel
+        # if captured_image.mode == 'RGBA':
+        #     captured_image = captured_image.convert('RGB')
 
-    # Run the chatbot
-    bot_response = initial_chat_bot(predicted_label)
-    print(f"Bot response: {bot_response}")
-    return bot_response
+        # Display image
+        # captured_image.show()
+
+        # # Capture an image
+        # captured_image = capture_image(image)
+        # print("Image captured.")
+
+        # Predict emotion
+        predicted_label = predict_emotion(base64_image)
+        print(f"Predicted label: {predicted_label}")
+
+        # Run the chatbot
+        bot_response = initial_chat_bot(predicted_label)
+        print(f"Bot response: {bot_response}")
+
+        return bot_response
+    except Exception as e:
+        # Handle any other exceptions not caught by specific except blocks
+        print("An error occurred:", e)
 
 
 # Initialize a counter
@@ -51,6 +75,7 @@ def chat_bot_two():
 
     print(f"Bot response: {bot_response}")
     return bot_response
+
 
 @app.route('/after_question', methods=['GET'])
 def after_question():

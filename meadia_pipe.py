@@ -2,6 +2,8 @@ import cv2
 import mediapipe as mp
 import time
 
+import json
+
 
 def capture_image():
     # Initialize MediaPipe Face Detection
@@ -53,8 +55,3 @@ def capture_image():
         # Break the loop if 'q' key is pressed
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
-
-
-
-
-

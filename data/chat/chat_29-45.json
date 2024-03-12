@@ -1,79 +1,17 @@
 {
   "intents": [
     {
-      "intent": "Greeting",
-      "text": [
-        "Hi",
-        "Hi there",
-        "Hola",
-        "Hello",
-        "Hello there",
-        "Hya there"
-      ],
-      "responses": [
-        "Hi dr How's it going? I'm here to chat and listen if you'd like to share anything about your job or anything else on your mind.",
-        "Hello , please tell me your feelings ?",
-        "Good to see you! How's everything going with you?",
-        "Hey there! How's your day going?",
-        "Hey! It's been pretty good, thanks for asking. How about you?",
-        "Hey, long time no chat! What have you been up to lately?",
-        "Hello! How's your day going? Any plans for the rest of the week?"
-      ],
-      "extension":  {
-        "function": "",
-        "entities": false,
-        "responses": []
-      },
-      "context":  {
-        "in": "",
-        "out": "GreetingUserRequest",
-        "clear": false
-      },
-      "entityType": "NA",
-      "entities": []
-    },
-    {
-      "intent": "CourtesyGreeting",
-      "text": [
-        "fine thanks",
-        "This is Adam",
-        "Everything going well",
-        "How are you?",
-        "Hi how are you?",
-        "Hello how are you?",
-        "Hola how are you?",
-        "How are you doing?",
-        "Hope you are doing well?",
-        "Hello hope you are doing well?"
-      ],
-      "responses": [
-        "Hello, I am great, how are you? What have you been up to lately? can we chat little bit?",
-        "Hello, how are you? I am great thanks! Can we talk together?",
-        "Hello, I am good thank you, how are you? Can we talk together?",
-        "Hi, I am great, how are you? Can we talk together?",
-        "Hi, how are you? I am great thanks! Can we talk together?",
-        "That's good to hear! Can we talk together?"
-      ],
-      "extension":  {
-        "function": "",
-        "entities": false,
-        "responses": []
-      },
-      "context":  {
-        "in": "",
-        "out": "CourtesyGreetingUserRequest",
-        "clear": true
-      },
-      "entityType": "NA",
-      "entities": []
-    },
-    {
       "intent": "Work Conditions",
       "text": [
         "safety measures we have in place here",
         "unsafety working environment here",
         "concerns about the cleanliness or general environment of our workplace",
-        "safety equipment or measures you think we should improve"
+        "safety equipment or measures you think we should improve",
+        "Our workplace prioritizes the safety measures we have in place here to ensure a secure environment for all.",
+        "Employees have raised concerns about the unsafety working environment here, prompting us to take immediate action.",
+        "We are actively addressing concerns about the cleanliness or general environment of our workplace to maintain a healthy atmosphere for everyone.",
+        "Your feedback on safety equipment or measures you think we should improve is highly valued and will be carefully considered.",
+        "It's important for us to continually assess and enhance the safety equipment and measures in place to ensure the well-being of our staff."
       ],
       "responses": [
         "Ensuring your safety remains our utmost concern. We're actively enhancing our safety protocols. However, we're also interested in your feedback regarding Pay and Benefits.",
@@ -220,22 +158,22 @@
     {
       "intent": "Disappointment",
       "text": [
-        "very frustrated",
-        "anxious",
-        "kill you.",
-        "scared",
-        "awful",
-        "stressed",
-        "hate",
-        "worthless.",
-        "useless",
-        "depressed",
-        "sad",
-        "die.",
-        "feeling lonely"
+        "I am very frustrated with my current workload.",
+        "I'm feeling anxious about the upcoming project deadline.",
+        "I'm concerned about statements I've heard like 'want to kill you'; it's unsettling.",
+        "I looked scared during the safety drill; it caught me off guard.",
+        "This awful weather is affecting my commute and mood.",
+        "I feel stressed about the recent changes in our department.",
+        "I hate waiting in long lines during peak hours.",
+        "Sometimes, I feel worthless when I'm not recognized for my efforts.",
+        "I feel useless when I encounter obstacles I can't overcome.",
+        "I've been feeling depressed lately; it's been tough.",
+        "I am feeling sad because I miss my family who are far away.",
+        "It's alarming to hear someone say 'I wanna die'; they might need help.",
+        "I am feeling lonely since my friends moved away; I miss them."
       ],
       "responses": [
-        "I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?\n or You have the opportunity to report your problem to higher officials through this App.(Click Here)"
+        "I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way? or You have the opportunity to report your problem to higher officials through this App.(Click Here)"
       ]
     },
     {
