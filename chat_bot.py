@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 def initial_chat_bot(predicted_label):
     # Simple conversation loop
-    initial_response = f"Hi! I'm Aurora. You seem like {predicted_label}\n Let me ask some questions from you 🙂?"
+    initial_response = f"Hi! I'm Amiga.🙂\nYou seem like {predicted_label}\nLet me ask some questions from you?"
     print(initial_response)
     return jsonify({'response': initial_response})  # Returning a JSON response
 
@@ -45,7 +45,7 @@ def process_chat(user_input, user_input_count, age):
 
         # Provide recommendation after calculating stress level
         recommendation = recommend_activity(stress_level)
-        response = f"Dear what if you {recommendation}"
+        response = f"Dear😊, what if you\n{recommendation}🫠"
         print(f"Dear what if you {recommendation}")
         q_and_a(response, user_input)
         return jsonify({'response': response})
@@ -53,6 +53,6 @@ def process_chat(user_input, user_input_count, age):
     else:
         # Use the user input in the chatbot function
         response = chat_bot(age, user_input_lower)
-        print(f"Aurora: {response}")
+        print(f"Amiga: {response}")
         q_and_a(response, user_input)
         return jsonify({'response': response})

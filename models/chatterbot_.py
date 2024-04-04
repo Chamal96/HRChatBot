@@ -122,7 +122,7 @@ def random_choice_chat(age):
 
 
 def random_choice_chat_fix():
-    return "Well!!!🙂  What is in your mind\nabout working place🧑‍💻, Salary💰, Personal life🫠, Health🏋️‍♂️ etc 👀"
+    return "Well 🙂.  What is in your mind\nabout working place✍️, Salary💰, Personal life🫠, Health🏋️‍♂️ etc 👀"
 
 
 import pandas as pd

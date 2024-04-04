@@ -1,4 +1,5 @@
 from solutions import recommend_activity
+import json
 
 
 def stress_by_questions(score):
@@ -13,5 +14,9 @@ def stress_by_questions(score):
         mode = "So Stressful 👀"
 
     activity = recommend_activity(stress_level)
-    recommendation = f"You looked {mode} dear, what if you try {activity}"
-    return recommendation
+    recommendation = {
+        "stress_level": stress_level,
+        "mode": mode,
+        "activity": activity
+    }
+    return json.dumps(recommendation)

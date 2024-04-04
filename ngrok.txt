@@ -1,5 +1,8 @@
-ngrok http http://192.168.1.4:5000
+ngrok http http://192.168.1.10:5000
 
 
 
 ngrok http --domain=cuddly-bulldog-happily.ngrok-free.app 5000
+
+
+

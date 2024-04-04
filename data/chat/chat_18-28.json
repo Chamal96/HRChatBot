@@ -1,6 +1,16 @@
 {
   "intents": [
     {
+      "intent": "Information Cannot Found",
+      "text": [
+        "sghdhcjhsbjhbjvc",
+        "dghchshjbkjb"
+      ],
+      "responses": [
+        "I'm sorry, I couldn't understand your request. Could you please provide more information?"
+      ]
+    },
+    {
       "intent": "Work Conditions",
       "text": [
         "safety measures we have in place here",
@@ -28,6 +38,16 @@
         "I want to bye a house, car",
         "I need to pay rent of my house",
         "Money's always on my mind, especially with bills and all. And I've been thinking about getting a car soon, but it's tough to save up.",
+        "I'm considering negotiating my salary and benefits to better align with my contributions and market value.",
+        "Financial stability is crucial for me, especially with future expenses like buying a house and planning for retirement.",
+        "I'm seeking a job with competitive compensation and benefits to support my financial goals and lifestyle.",
+        "Budgeting is a constant concern for me, especially with rising living costs and unexpected expenses.",
+        "I'm exploring options to increase my income and improve my financial situation, such as pursuing freelance work or investing.",
+        "Considering the cost of living in this area, I believe my current salary and benefits may not be sufficient.",
+        "I'm evaluating my career options based on factors like salary, benefits, and long-term growth potential.",
+        "Financial stability is a top priority for me, and I'm actively seeking opportunities for advancement and higher earning potential.",
+        "I'm interested in exploring additional sources of income to supplement my current salary and improve my financial security.",
+        "Securing a stable income and comprehensive benefits package is essential for me to achieve my financial goals and provide for my family.",
         "Regarding Pay and Benefits, I believe transparency and fairness are essential. Perhaps establishing clear guidelines for pay raises and benefits packages, ",
         "along with regular reviews, could enhance satisfaction and morale. Additionally, providing opportunities for professional development and flexible benefits could further support employee well-being and retention."
       ],
@@ -48,6 +68,16 @@
         "I feel not the support and guidance receive from your manager, supervisors, others",
         "Do you feel like you have clear expectations and directions from your supervisors?",
         "Issues regarding favoritism or unfair treatment noticed",
+        "Feeling unsupported by management can lead to decreased morale and productivity.",
+        "Having clear expectations and directions from supervisors is essential for job satisfaction and performance.",
+        "Addressing issues of favoritism and unfair treatment is crucial for maintaining a positive work culture.",
+        "Effective management and supervision require fostering open communication and providing constructive feedback.",
+        "Creating a supportive work environment involves offering resources and guidance for professional development.",
+        "Employees thrive when they feel valued and supported by their managers and peers.",
+        "Feeling unsupported can lead to disengagement and turnover within the organization.",
+        "Transparent and fair leadership builds trust and loyalty among employees.",
+        "A lack of support from supervisors can hinder employee growth and development.",
+        "Management should strive to address concerns and provide solutions to support their team members.",
         "Regarding Management and Supervision, effective communication and leadership are pivotal.",
         "Encouraging regular feedback sessions and establishing clear goals could improve the overall work environment.",
         "As for compensation, fair and competitive pay along with opportunities for advancement are crucial aspects to consider.",
@@ -61,12 +91,12 @@
         "Receiving support is crucial. Is there anything specific you'd like to address in this regard? Additionally, what are your thoughts on professional development opportunities?",
         "Maintaining clear communication with supervisors is pivotal. Should you have any concerns, please inform us. Moreover, what are your insights on professional development opportunities?",
         "We prioritize fairness and transparency. Please share any instances of favoritism or unfair treatment you've observed. Furthermore, what are your thoughts on professional development opportunities?"
-    ]
-        },
+      ]
+    },
     {
       "intent": "Job Roles and Career Development",
       "text": [
-          "As for professional development opportunities, I believe they are essential for personal growth and career advancement.,",
+        "As for professional development opportunities, I believe they are essential for personal growth and career advancement.,",
         "Providing access to training programs, mentorship opportunities, and career planning resources could greatly benefit employees." ,
         "Additionally, ensuring clear expectations and guidance from supervisors is crucial for success. Open communication channels and setting achievable goals can help in this regard. ",
         "Regarding fairness and transparency, addressing any instances of favoritism or unfair treatment is vital for maintaining a positive work culture. Implementing processes for reporting and addressing such issues promptly is essential."
@@ -82,7 +112,7 @@
     {
       "intent": "Work-Life Balance",
       "text": [
-            "emphasizing the importance of role clarity and work-life balance. Clear communication regarding responsibilities is indeed crucial for optimal performance.",
+        "emphasizing the importance of role clarity and work-life balance. Clear communication regarding responsibilities is indeed crucial for optimal performance.",
         "Regarding the balance between work and personal life, I appreciate the flexibility and support provided here.",
         "However, I believe there could be further opportunities for remote work or flexible scheduling to accommodate personal commitments and promote overall well-being.",
         "Regarding salary and benefits, I believe they play a significant role in achieving a healthy work-life balance. Ensuring fair compensation and benefits packages can alleviate financial stress and support employees in maintaining a fulfilling personal life outside of work.",
@@ -146,8 +176,18 @@
     {
       "intent": "Inadequate Resources",
       "text": [
-          "In terms of enhancing work performance, I believe implementing tools such as project management software for better organization,",
-          "training programs to enhance skills, and perhaps investing in ergonomic office equipment for physical well-being could greatly contribute to our productivity."
+        "In terms of enhancing work performance, I believe implementing tools such as project management software for better organization,",
+        "training programs to enhance skills, and perhaps investing in ergonomic office equipment for physical well-being could greatly contribute to our productivity.",
+        "Enhancing work performance can be achieved by implementing task management software for better organization, incorporating regular breaks to maintain focus, and fostering a positive work environment.",
+        "To boost productivity, it's essential to establish clear priorities, leverage technology for streamlined processes, and encourage open communication among team members.",
+        "Maximizing efficiency requires optimizing workflows, eliminating unnecessary tasks, and promoting a culture of continuous improvement.",
+        "Improving overall performance involves setting SMART goals, providing regular feedback for growth, and investing in professional development opportunities.",
+        "Elevating productivity entails leveraging automation to reduce manual tasks, implementing effective time management strategies, and fostering a culture of collaboration.",
+        "To enhance work output, consider utilizing project management tools for task tracking, encouraging creativity and innovation, and providing access to resources for skill development.",
+        "Boosting efficiency in the workplace involves identifying and removing bottlenecks, empowering employees with decision-making authority, and fostering a sense of ownership.",
+        "Optimizing productivity requires balancing workload effectively, promoting work-life balance, and providing adequate resources and support.",
+        "Maximizing output involves setting realistic goals, prioritizing tasks effectively, and leveraging strengths within the team.",
+        "Improving work performance can be achieved by fostering a culture of accountability, encouraging continuous learning, and recognizing and rewarding achievements."
       ],
       "responses": [
         "Your productivity is important to us. Are there any resources or technologies you think would help improve your work performance?",
@@ -213,9 +253,9 @@
         "Tell me your name?"
       ],
       "responses": [
-        "You can call me Aurora",
-        "You may call me Aurora",
-        "Call me Aurora"
+        "You can call me Amiga",
+        "You may call me Amiga",
+        "Call me Amiga"
       ],
       "extension":  {
         "function": "",
@@ -385,7 +425,7 @@
         "What are your capabilities?"
       ],
       "responses": [
-        "I'm an Aurora ,AI chatbot designed to assist you with HR topics."
+        "I'm an Amiga ,AI chatbot designed to assist you with HR topics."
       ]
     }
   ]
