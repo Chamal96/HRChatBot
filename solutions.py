@@ -25,17 +25,16 @@ def calculate_stress(cumulative_score):
 def recommend_activity(stress_level):
     if stress_level == "High":
         return random.choice([
-            "deep breathing exercises. Inhale slowly through your nose, allowing your belly to rise, and then exhale slowly through your mouth.",
+            "Get deep breathing exercises. Inhale slowly through your nose, allowing your belly to rise, and then exhale slowly through your mouth.",
             "Listen to calming music. Click here https://www.youtube.com/results?search_query=calm+music",
             "Take a short walk.",
-            "If you're feeling tense, try progressive muscle relaxation. Start by tensing the muscles in your body, one group at a time, and then slowly release the tension while focusing on the sensation of relaxation."
+            "Try progressive muscle relaxation. Start by tensing the muscles in your body, one group at a time, and then slowly release the tension while focusing on the sensation of relaxation."
             "Write down your thoughts in a journal to express and process your emotions.",
             "Consider talking to a friend or family member about what's on your mind.",
             "Practice progressive muscle relaxation techniques.",
             "Take a warm bath with soothing essential oils.",
             "Try visualization exercises to imagine yourself in a peaceful place.",
-            "Limit exposure to stressful situations or people."
-            "When you're feeling stressed, try taking deep breaths. Inhale slowly through your nose, allowing your belly to rise, and then exhale slowly through your mouth. Repeat this several times to help calm your mind and body."
+            "try taking deep breaths. Inhale slowly through your nose, allowing your belly to rise, and then exhale slowly through your mouth. Repeat this several times to help calm your mind and body."
         ])
 
     elif stress_level == "Moderate":
