@@ -17,6 +17,7 @@ def initial_chat_bot(predicted_label):
 
 def process_chat(user_input, user_input_count, age):
     print(user_input_count)
+    print(user_input)
     # Number of interactions to consider before calculating stress
     interactions_threshold = 10
     random_Q_count = 5
